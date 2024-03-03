@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on Analytics/Business Intelligence/ML/Data Engineering
 - 👯 I’m looking to collaborate on new Analytics Projects, please contact me if you have any ideas
 - 🤔 I’m looking for help with Cloud Technology, Machine Learning Modelling
+- ⚡ Fun fact: I have solved more than 900 Data related questions (SQL, Pandas) on [StrataScratch](https://www.stratascratch.com/) and [Leetcode](https://leetcode.com/)
 
 ### Previous Experience
 Previous Experience
