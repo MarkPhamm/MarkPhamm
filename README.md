@@ -12,8 +12,8 @@ Previous Experience
 * Business Intelligence Engineer @[**Lazard & Co Ltd**](https://www.linkedin.com/company/lazard/mycompany/verification/) (FABT Team)
 * Business Intelligence & Analytics intern @[**Techsmith Corp**](https://www.linkedin.com/company/techsmith-corporation/mycompany/verification/) (Sales, Marketing & Ops Team) 
 * Business Intelligence & Analytics intern @[**Corning Inc.,**](https://www.linkedin.com/company/corning-incorporated/) F500 (Global Supply Chain Team)
-* Data Analyst intern @[**KPIM**](https://kpim.vn/) (**Consulting Team**)
-* Data Analyst intern @[**NAPAS Vietnam**](https://en.napas.com.vn/) (**Fraud and Risk Team**) 
+* Data Analyst intern @[**KPIM**](https://kpim.vn/) (Consulting Team)
+* Data Analyst intern @[**NAPAS Vietnam**](https://en.napas.com.vn/) (Fraud and Risk Team) 
 
 
 ### Contacts
