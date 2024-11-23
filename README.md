@@ -49,5 +49,6 @@ Feel free to explore my projects and reach out for collaboration or discussion. 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/MarkPhamm/MarkPhamm/tree/master/0180-consecutive-numbers) |
 | [1702-bank-account-summary](https://github.com/MarkPhamm/MarkPhamm/tree/master/1702-bank-account-summary) |
 <!---LeetCode Topics End-->
