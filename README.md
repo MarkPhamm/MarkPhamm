@@ -44,11 +44,13 @@ Feel free to explore my projects and reach out for collaboration or discussion. 
 ## Array
 |  |
 | ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MarkPhamm/MarkPhamm/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/MarkPhamm/MarkPhamm/tree/master/1944-truncate-sentence) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/MarkPhamm/MarkPhamm/tree/master/0205-isomorphic-strings) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MarkPhamm/MarkPhamm/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/MarkPhamm/MarkPhamm/tree/master/1944-truncate-sentence) |
 ## Hash Table
 |  |
