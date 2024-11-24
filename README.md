@@ -38,3 +38,15 @@ Let's connect and explore opportunities together:
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/minhbphamm/)
 
 Feel free to explore my projects and reach out for collaboration or discussion. Looking forward to connecting with you!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1944-truncate-sentence](https://github.com/MarkPhamm/MarkPhamm/tree/master/1944-truncate-sentence) |
+## String
+|  |
+| ------- |
+| [1944-truncate-sentence](https://github.com/MarkPhamm/MarkPhamm/tree/master/1944-truncate-sentence) |
+<!---LeetCode Topics End-->
