@@ -9,7 +9,7 @@ I am enthusiastic about leveraging data to drive insights and make informed deci
 - 🔭 Currently, I am immersed in projects involving Analytics, Business Intelligence, Machine Learning, and Data Engineering.
 - 👯 I'm always open to collaboration on exciting analytics projects. Feel free to reach out to me with your ideas!
 - 🤔 I'm seeking guidance and collaboration in the realms of Cloud Technology and Machine Learning Modeling.
-- ⚡ Fun fact: I've tackled over 900 data-related questions, including SQL and Pandas, on platforms like [StrataScratch](https://www.stratascratch.com/) and [Leetcode](https://leetcode.com/).
+- ⚡ Fun fact: I've tackled over 1000 data-related questions, including SQL and Pandas, on platforms like [StrataScratch](https://www.stratascratch.com/) and [Leetcode](https://leetcode.com/).
 
 ## Previous Experience
 In my journey, I've had the opportunity to work with diverse teams and organizations, gaining hands-on experience in various facets of data analytics and business intelligence:
