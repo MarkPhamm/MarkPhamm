@@ -48,5 +48,10 @@ Feel free to explore my projects and reach out for collaboration or discussion. 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/MarkPhamm/MarkPhamm/tree/master/0205-isomorphic-strings) |
 | [1944-truncate-sentence](https://github.com/MarkPhamm/MarkPhamm/tree/master/1944-truncate-sentence) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/MarkPhamm/MarkPhamm/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
