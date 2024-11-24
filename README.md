@@ -46,6 +46,7 @@ Feel free to explore my projects and reach out for collaboration or discussion. 
 | ------- |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MarkPhamm/MarkPhamm/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/MarkPhamm/MarkPhamm/tree/master/1944-truncate-sentence) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MarkPhamm/MarkPhamm/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/MarkPhamm/MarkPhamm/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## String
 |  |
@@ -68,6 +69,7 @@ Feel free to explore my projects and reach out for collaboration or discussion. 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MarkPhamm/MarkPhamm/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/MarkPhamm/MarkPhamm/tree/master/0202-happy-number) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MarkPhamm/MarkPhamm/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -80,4 +82,8 @@ Feel free to explore my projects and reach out for collaboration or discussion. 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MarkPhamm/MarkPhamm/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MarkPhamm/MarkPhamm/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
