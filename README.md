@@ -38,17 +38,3 @@ Let's connect and explore opportunities together:
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/minhbphamm/)
 
 Feel free to explore my projects and reach out for collaboration or discussion. Looking forward to connecting with you!
-  
-
-
-
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0180-consecutive-numbers](https://github.com/MarkPhamm/MarkPhamm/tree/master/0180-consecutive-numbers) |
-| [1702-bank-account-summary](https://github.com/MarkPhamm/MarkPhamm/tree/master/1702-bank-account-summary) |
-<!---LeetCode Topics End-->
