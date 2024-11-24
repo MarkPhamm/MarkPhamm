@@ -57,6 +57,7 @@ Feel free to explore my projects and reach out for collaboration or discussion. 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MarkPhamm/MarkPhamm/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/MarkPhamm/MarkPhamm/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MarkPhamm/MarkPhamm/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
@@ -66,6 +67,7 @@ Feel free to explore my projects and reach out for collaboration or discussion. 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MarkPhamm/MarkPhamm/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/MarkPhamm/MarkPhamm/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -74,4 +76,8 @@ Feel free to explore my projects and reach out for collaboration or discussion. 
 |  |
 | ------- |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/MarkPhamm/MarkPhamm/tree/master/2631-sort-the-students-by-their-kth-score) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MarkPhamm/MarkPhamm/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
