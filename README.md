@@ -46,6 +46,7 @@ Feel free to explore my projects and reach out for collaboration or discussion. 
 | ------- |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MarkPhamm/MarkPhamm/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/MarkPhamm/MarkPhamm/tree/master/1944-truncate-sentence) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/MarkPhamm/MarkPhamm/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## String
 |  |
 | ------- |
@@ -65,4 +66,12 @@ Feel free to explore my projects and reach out for collaboration or discussion. 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MarkPhamm/MarkPhamm/tree/master/0142-linked-list-cycle-ii) |
+## Sorting
+|  |
+| ------- |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/MarkPhamm/MarkPhamm/tree/master/2631-sort-the-students-by-their-kth-score) |
+## Matrix
+|  |
+| ------- |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/MarkPhamm/MarkPhamm/tree/master/2631-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
