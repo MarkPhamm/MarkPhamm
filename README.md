@@ -53,5 +53,14 @@ Feel free to explore my projects and reach out for collaboration or discussion. 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/MarkPhamm/MarkPhamm/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/MarkPhamm/MarkPhamm/tree/master/0205-isomorphic-strings) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/MarkPhamm/MarkPhamm/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/MarkPhamm/MarkPhamm/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
