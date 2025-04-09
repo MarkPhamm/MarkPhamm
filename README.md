@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Minh (Mark) Pham 👋</h1>
-<h4 align="center">I'm currently a Senior in MIS and Mathematics at Texas Christian University with a Fintech Minor</h4>
+<h4 align="center">I'm currently a TCU alumni (MIS and Mathematics) </h4>
 <h4 align="center"> I am interested in Business Intelligence, Data Science, and Data Engineering.</h4>
 
 ## About Me
