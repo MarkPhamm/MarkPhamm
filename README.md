@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Minh (Mark) Pham 👋</h1>
-<h4 align="center">I'm currently a TCU alumni (MIS and Mathematics) </h4>
+<h4 align="center">TCU alumnus (MIS & Mathematics, Fintech Minor) </h4>
 <h4 align="center"> I am interested in Business Intelligence, Data Science, and Data Engineering.</h4>
 
 ## About Me
