@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Minh (Mark) Pham 👋</h1>
-<h4 align="center">I'm currently a Senior in MIS and Mathematics at Texas Christian University with a Fintech Minor</h4>
+<h4 align="center">TCU alumnus (MIS & Mathematics, Fintech Minor) </h4>
 <h4 align="center"> I am interested in Business Intelligence, Data Science, and Data Engineering.</h4>
 
 ## About Me
@@ -13,6 +13,7 @@ I am enthusiastic about leveraging data to drive insights and make informed deci
 
 ## Previous Experience
 In my journey, I've had the opportunity to work with diverse teams and organizations, gaining hands-on experience in various facets of data analytics and business intelligence:
+- Analytics Engineer at [Insurify, Inc.,](https://insurify.com/) (Marketing & Core Analytics)
 - Data Engineer Intern at [Lazard & Co Ltd](https://www.linkedin.com/company/lazard/mycompany/verification/) (Financial Advisory Team)
 - Business Intelligence & Analytics Intern at [Techsmith Corp](https://www.linkedin.com/company/techsmith-corporation/mycompany/verification/) (Sales, Marketing & Ops Team)
 - Business Intelligence & Analytics Intern at [Corning Inc.,](https://www.linkedin.com/company/corning-incorporated/) a Fortune 500 company (Global Supply Chain Team)
