@@ -9,8 +9,8 @@ I am enthusiastic about leveraging data to drive insights and make informed deci
 In my journey, I've had the opportunity to work with diverse teams and organizations, gaining hands-on experience in various facets of data analytics, data engineering, and business intelligence:
 - Analytics Engineer at [Insurify, Inc.,](https://insurify.com/) (Marketing & Core Analytics)
 - Data Engineer Intern at [Lazard & Co Ltd](https://www.linkedin.com/company/lazard/mycompany/verification/) (Financial Advisory Team)
-- Business Intelligence & Analytics Intern at [Techsmith Corp](https://www.linkedin.com/company/techsmith-corporation/mycompany/verification/) (Sales, Marketing & Ops Team)
-- Business Intelligence & Analytics Intern at [Corning Inc.,](https://www.linkedin.com/company/corning-incorporated/) a Fortune 500 company (Global Supply Chain Team)
+- Business Intelligence Engineer Intern at [Techsmith Corp](https://www.linkedin.com/company/techsmith-corporation/mycompany/verification/) (Sales, Marketing & Ops Team)
+- Data Analyst Intern at [Corning Inc.,](https://www.linkedin.com/company/corning-incorporated/) a Fortune 500 company (Global Supply Chain Team)
 - Data Analyst Intern at [KPIM](https://kpim.vn/) (Consulting Team)
 - Data Analyst Intern at [NAPAS Vietnam](https://en.napas.com.vn/) (Fraud and Risk Team)
 
