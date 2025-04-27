@@ -5,14 +5,8 @@
 ## About Me
 I am enthusiastic about leveraging data to drive insights and make informed decisions. Currently, I am focusing on honing my skills in Business Intelligence, Machine Learning, and Data Engineering, exploring innovative ways to harness the power of data.
 
-## Interests
-- 🔭 Currently, I am immersed in projects involving Analytics, Business Intelligence, Machine Learning, and Data Engineering.
-- 👯 I'm always open to collaboration on exciting analytics projects. Feel free to reach out to me with your ideas!
-- 🤔 I'm seeking guidance and collaboration in the realms of Cloud Technology and Machine Learning Modeling.
-- ⚡ Fun fact: I've tackled over 1000 data-related questions, including SQL and Pandas, on platforms like [StrataScratch](https://www.stratascratch.com/) and [Leetcode](https://leetcode.com/).
-
 ## Previous Experience
-In my journey, I've had the opportunity to work with diverse teams and organizations, gaining hands-on experience in various facets of data analytics and business intelligence:
+In my journey, I've had the opportunity to work with diverse teams and organizations, gaining hands-on experience in various facets of data analytics, data engineering, and business intelligence:
 - Analytics Engineer at [Insurify, Inc.,](https://insurify.com/) (Marketing & Core Analytics)
 - Data Engineer Intern at [Lazard & Co Ltd](https://www.linkedin.com/company/lazard/mycompany/verification/) (Financial Advisory Team)
 - Business Intelligence & Analytics Intern at [Techsmith Corp](https://www.linkedin.com/company/techsmith-corporation/mycompany/verification/) (Sales, Marketing & Ops Team)
@@ -23,7 +17,10 @@ In my journey, I've had the opportunity to work with diverse teams and organizat
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/minhbphamm/) 
 
-# 💻 Tech Stack:
+## Interests
+I've tackled over 1000 data-related questions, including SQL and Pandas, on platforms like [StrataScratch](https://www.stratascratch.com/) and [Leetcode](https://leetcode.com/).
+
+## 💻 Tech Stack:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
