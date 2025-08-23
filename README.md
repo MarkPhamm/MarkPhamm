@@ -66,6 +66,38 @@ I enjoy tackling complex challenges in SQL, Python (Pandas), and building modern
 
 ---
 
+## 🚀 Projects Showcase  
+
+<p align="center">
+  <a href="https://github.com/MarkPhamm/Stats-Calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkPhamm&repo=Stats-Calculator&theme=radical" />
+  </a>
+  <a href="https://github.com/MarkPhamm/skytrax_reviews_transformation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkPhamm&repo=skytrax_reviews_transformation&theme=merko" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MarkPhamm/skytrax_reviews_extract_load">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkPhamm&repo=skytrax_reviews_extract_load&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/DucLe-2005/british_airways_data_cleaning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DucLe-2005&repo=british_airways_data_cleaning&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nguyentienTCU/british_airways_dashboard_website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyentienTCU&repo=british_airways_dashboard_website&theme=onedark" />
+  </a>
+  <a href="https://github.com/MarkPhamm/Leetcode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkPhamm&repo=Leetcode&theme=cobalt" />
+  </a>
+</p>
+
+
+---
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhbphamm/)
