@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Minh (Mark) Pham
 
-### 🎓 TCU Alumnus (MIS & Mathematics, Fintech Minor)  
+### 🎓 TCU Alumni (MIS & Mathematics, Fintech Minor)  
 ### 💡 Passionate about Business Intelligence, Analytics Engineering, and Data Science
 
 </div>
@@ -90,8 +90,8 @@ I enjoy tackling complex challenges in SQL, Python (Pandas), and building modern
   <a href="https://github.com/nguyentienTCU/british_airways_dashboard_website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyentienTCU&repo=british_airways_dashboard_website&theme=onedark" />
   </a>
-  <a href="https://github.com/MarkPhamm/Leetcode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkPhamm&repo=Leetcode&theme=cobalt" />
+  <a href="https://github.com/MarkPhamm/skytrax-reviews">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkPhamm&repo=skytrax-reviews&theme=cobalt" />
   </a>
 </p>
 
