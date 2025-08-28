@@ -59,6 +59,11 @@ I enjoy tackling complex challenges in SQL, Python (Pandas), and building modern
 ---
 
 ## 📊 GitHub Stats
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markphamm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=markphamm&theme=dark&hide_border=false)  
