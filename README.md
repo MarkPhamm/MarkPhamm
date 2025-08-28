@@ -23,6 +23,19 @@ I'm enthusiastic about leveraging data to drive insights and make informed decis
 - **Data Analyst Intern** @ [Corning Inc.](https://www.linkedin.com/company/corning-incorporated/) – *Global Supply Chain*
 - **Data Science Analyst Intern** @ [KPIM](https://kpim.vn/) – *Consulting Team*
 - **Data Science Analyst Intern** @ [NAPAS Vietnam](https://en.napas.com.vn/) – *Fraud and Risk Team*
+---
+
+## 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markphamm&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=markphamm&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
 
 ---
 ### 📊 Business Intelligence  
@@ -55,19 +68,6 @@ I’ve solved over **1000+ data problems** on:
 - [LeetCode](https://leetcode.com/)
 
 I enjoy tackling complex challenges in SQL, Python (Pandas), and building modern data stacks.
-
----
-
-## 📊 GitHub Stats
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg" />
-</picture>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markphamm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=markphamm&theme=dark&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markphamm&theme=dark&hide_border=false&layout=compact)
 
 ---
 
