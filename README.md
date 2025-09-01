@@ -86,17 +86,17 @@ I enjoy tackling complex challenges in SQL, Python (Pandas), and building modern
   <a href="https://github.com/MarkPhamm/skytrax_reviews_extract_load">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkPhamm&repo=skytrax_reviews_extract_load&theme=gruvbox" />
   </a>
-  <a href="https://github.com/DucLe-2005/british_airways_data_cleaning">
+  <a href="https://github.com/DucLe-2005/skytrax_data_cleaning">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DucLe-2005&repo=british_airways_data_cleaning&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nguyentienTCU/british_airways_dashboard_website">
+  <a href="https://github.com/nguyentienTCU/skytrax_dashboard_website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyentienTCU&repo=british_airways_dashboard_website&theme=onedark" />
   </a>
-  <a href="https://github.com/MarkPhamm/skytrax-reviews">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkPhamm&repo=skytrax-reviews&theme=cobalt" />
+  <a href="https://github.com/MarkPhamm/skytrax_reviews">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkPhamm&repo=skytrax_reviews&theme=cobalt" />
   </a>
 </p>
 
