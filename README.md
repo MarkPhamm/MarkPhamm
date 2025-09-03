@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Minh (Mark) Pham
 
 ### 🎓 TCU Alumni (MIS & Mathematics, Fintech Minor)  
-### 💡 Passionate about Business Intelligence, Analytics Engineering, and Data Science
+### 💡 Passionate about Analytics Engineering, Business Intelligence, and Data Science
 
 </div>
 
@@ -26,16 +26,27 @@ I'm enthusiastic about leveraging data to drive insights and make informed decis
 ---
 
 ## 📊 GitHub Stats
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- Snake (shows correct variant for GitHub theme) -->
+![github-snake-dark](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github-snake-light](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markphamm&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=markphamm&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
+<div align="center">
+
+  <!-- Streak stats (new endpoint) -->
+  <img
+    src="https://streak-stats.demolab.com?user=markphamm&theme=dark&hide_border=false"
+    alt="GitHub Streak"
+    loading="lazy"
+  />
+
+  <!-- GitHub Readme Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=markphamm&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+    alt="GitHub Stats"
+    loading="lazy"
+  />
+
+</div>
 
 ---
 ### 📊 Business Intelligence  
