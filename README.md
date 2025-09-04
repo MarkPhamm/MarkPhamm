@@ -41,7 +41,7 @@ I'm enthusiastic about leveraging data to drive insights and make informed decis
 
   <!-- GitHub Readme Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=markphamm&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+    src="https://github-readme-stats.vercel.app/api?username=markphamm&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
     alt="GitHub Stats"
     loading="lazy"
   />
