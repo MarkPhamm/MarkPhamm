@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Minh (Mark) Pham
 
-### 🎓 TCU Alumni (MIS & Mathematics, Fintech Minor)  
+### 🎓 TCU Alumnus (MIS & Mathematics, Fintech Minor)  
 ### 💡 Passionate about Analytics Engineering, Business Intelligence, and Data Science
 
 </div>
