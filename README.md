@@ -30,19 +30,16 @@ I'm enthusiastic about leveraging data to drive insights and make informed decis
 ![github-snake-dark](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github-snake-light](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<div align="center">
 
-  <!-- Streak stats (new endpoint) -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=markphamm&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+<!-- Streak stats (new endpoint) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=markphamm&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
-  <!-- GitHub Readme Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=markphamm&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
-    alt="GitHub Stats"
-    loading="lazy"
-  />
-
-</div>
+<!-- GitHub Readme Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=markphamm&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
+  alt="GitHub Stats"
+  loading="lazy"
+/>
 
 ---
 ### 📊 Business Intelligence  
