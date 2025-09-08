@@ -33,11 +33,7 @@ I'm enthusiastic about leveraging data to drive insights and make informed decis
 <div align="center">
 
   <!-- Streak stats (new endpoint) -->
-  <img
-    src="https://streak-stats.demolab.com?user=markphamm&theme=dark&hide_border=false"
-    alt="GitHub Streak"
-    loading="lazy"
-  />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=markphamm&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
   <!-- GitHub Readme Stats -->
   <img
