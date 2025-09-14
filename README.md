@@ -41,7 +41,6 @@ I'm enthusiastic about leveraging data to drive insights and make informed decis
   loading="lazy"
 />
 
----
 ### 📊 Business Intelligence  
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white) ![Hex](https://img.shields.io/badge/Hex-FB9BA3?style=for-the-badge) ![Mode](https://img.shields.io/badge/Mode-1A1A1A?style=for-the-badge&logo=mode&logoColor=white)
 
@@ -52,7 +51,10 @@ I'm enthusiastic about leveraging data to drive insights and make informed decis
 ![dbt](https://img.shields.io/badge/dbt-%23FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Alteryx](https://img.shields.io/badge/Alteryx-0077C0?style=for-the-badge&logo=alteryx&logoColor=white)
 
 ### 🔌 Data Integration  
-![Airbyte](https://img.shields.io/badge/Airbyte-6F4BD8?style=for-the-badge&logo=airbyte&logoColor=white) ![Fivetran](https://img.shields.io/badge/Fivetran-0D80EA?style=for-the-badge&logo=fivetran&logoColor=white) ![Hightouch](https://img.shields.io/badge/Hightouch-0052CC?style=for-the-badge&logo=hightouch&logoColor=white) ![DltHub](https://img.shields.io/badge/dltHub-2B2D42?style=for-the-badge)
+![Airbyte](https://img.shields.io/badge/Airbyte-6F4BD8?style=for-the-badge&logo=airbyte&logoColor=white) ![Fivetran](https://img.shields.io/badge/Fivetran-0D80EA?style=for-the-badge&logo=fivetran&logoColor=white) ![DltHub](https://img.shields.io/badge/dltHub-2B2D42?style=for-the-badge)
+
+### 🔁 Reverse ETL
+![Hightouch](https://img.shields.io/badge/Hightouch-0052CC?style=for-the-badge&logo=hightouch&logoColor=white) ![Census](https://img.shields.io/badge/Census-1F8B4C?style=for-the-badge&logo=census&logoColor=white) ![RudderStack](https://img.shields.io/badge/RudderStack-FF6A00?style=for-the-badge&logo=rudderstack&logoColor=white) ![Grouparoo](https://img.shields.io/badge/Grouparoo-6C5CE7?style=for-the-badge) ![Data Channel](https://img.shields.io/badge/Data%20Channel-0080FF?style=for-the-badge) ![Rivery](https://img.shields.io/badge/Rivery-1C3C8C?style=for-the-badge&logo=rivery&logoColor=white)
 
 ### ⚙️ Orchestration  
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Astronomer](https://img.shields.io/badge/Astronomer-292C33?style=for-the-badge&logo=astronomer&logoColor=white) ![Mage](https://img.shields.io/badge/Mage-27C5C1?style=for-the-badge) ![Prefect](https://img.shields.io/badge/Prefect-24292F?style=for-the-badge&logo=prefect&logoColor=white)
@@ -61,7 +63,7 @@ I'm enthusiastic about leveraging data to drive insights and make informed decis
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧪 DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
