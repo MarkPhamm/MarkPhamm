@@ -10,8 +10,7 @@
 ---
 
 ## 🧠 About Me
-
-I'm enthusiastic about leveraging data to drive insights and make informed decisions. Currently, I focus on building robust data infrastructure and analytics solutions by combining modern tools across the data stack. I'm constantly exploring innovations in Business Intelligence, Machine Learning, and Data Engineering.
+If there’s one thing to know about me: I build data systems that turn noise into clarity—and I’ll outwork anyone to get there.
 
 ---
 
