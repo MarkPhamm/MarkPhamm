@@ -97,7 +97,7 @@ I enjoy tackling complex challenges in SQL, Python (Pandas), and building modern
 </p>
 
 <p align="center">
-  <a href="https://github.com/nguyentienTCU/skytrax_dashboard_website">
+  <a href="https://github.com/nguyentienTCU/skytrax_reviews_dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyentienTCU&repo=Skytrax_Reviews_Dashboard&theme=onedark" />
   </a>
   <a href="https://github.com/MarkPhamm/skytrax_reviews">
