@@ -69,8 +69,9 @@ If there’s one thing to know about me: I build data systems that turn noise in
 ## 🔍 Interests
 
 I’ve solved over **1000+ data problems** on:
-- [StrataScratch](https://www.stratascratch.com/)
-- [LeetCode](https://leetcode.com/)
+- [StrataScratch](https://platform.stratascratch.com/user/SmartPersonality1862)
+- [LeetCode](https://leetcode.com/u/markphammm/)
+- [Hackerrank](https://www.hackerrank.com/profile/minh_b_pham)
 
 I enjoy tackling complex challenges in SQL, Python (Pandas), and building modern data stacks.
 
