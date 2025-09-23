@@ -29,6 +29,13 @@ If there’s one thing to know about me: I build data systems that turn noise in
 ![github-snake-dark](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github-snake-light](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+<p align="center">
+  <a href="https://wakatime.com/@MarkPham">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&range=last_7_days&cache_seconds=1800&theme=dark#gh-dark-mode-only" alt="WakaTime stats (dark)" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&range=last_7_days&cache_seconds=1800#gh-light-mode-only" alt="WakaTime stats (light)" />
+  </a>
+</p>
+
 
 <!-- Streak stats (new endpoint) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=markphamm&theme=dark&short_numbers=true)](https://git.io/streak-stats)
