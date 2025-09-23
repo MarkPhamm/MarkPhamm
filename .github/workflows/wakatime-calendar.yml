@@ -1,0 +1,38 @@
+name: WakaTime Calendar (SVG)
+on:
+  schedule:
+    - cron: "7 0 * * *"     # daily, 00:07 UTC
+  workflow_dispatch:
+
+jobs:
+  build-calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests matplotlib
+
+      - name: Generate SVGs
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: python scripts/wakatime_calendar.py
+
+      - name: Commit changes
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add images/wakatime_calendar_*.svg
+            git commit -m "chore: update WakaTime calendar"
+            git push
+          fi
