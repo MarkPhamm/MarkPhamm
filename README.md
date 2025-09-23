@@ -30,17 +30,16 @@ If there’s one thing to know about me: I build data systems that turn noise in
 ![github-snake-light](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <a href="https://wakatime.com/@MarkPham">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&range=last_7_days&cache_seconds=1800&theme=dark#gh-dark-mode-only" alt="WakaTime stats (dark)" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&range=last_7_days&cache_seconds=1800#gh-light-mode-only" alt="WakaTime stats (light)" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&langs_count=15&theme=radical" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&range=last_7_days&langs_count=15&theme=radical" alt="WakaTime stats (light)" /> -->
 </a>
 
-
 <!-- Streak stats (new endpoint) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=markphamm&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=markphamm&theme=dark&short_numbers=true)](https://git.io/streak-stats) -->
 
 <!-- GitHub Readme Stats -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=markphamm&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
+  src="https://github-readme-stats.vercel.app/api?username=markphamm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false"
   alt="GitHub Stats"
   loading="lazy"
 />
