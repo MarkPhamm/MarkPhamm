@@ -1,3 +1,5 @@
 .cursor
 .vscode
 .DS_Store
+.env
+.venv 

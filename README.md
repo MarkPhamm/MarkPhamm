@@ -32,10 +32,10 @@ If there’s one thing to know about me: I build data systems that turn noise in
 ![github-snake-dark](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github-snake-light](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/main/images/wakatime_calendar_dark.svg#gh-dark-mode-only" alt="WakaTime Activity (last year)" />
+<!-- <p align="center"> -->
+  <!-- <img src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/main/images/wakatime_calendar_dark.svg#gh-dark-mode-only" alt="WakaTime Activity (last year)" /> -->
   <!-- <img src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/main/images/wakatime_calendar_light.svg#gh-light-mode-only" alt="WakaTime Activity (last year)" /> -->
-</p>
+<!-- </p> -->
 
 <a href="https://wakatime.com/@MarkPham">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&langs_count=15&theme=radical" />
