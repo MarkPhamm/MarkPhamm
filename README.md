@@ -32,7 +32,7 @@ If there’s one thing to know about me: I build data systems that turn noise in
 <p align="center">
   <a href="https://wakatime.com/@MarkPham">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&range=last_7_days&cache_seconds=1800&theme=dark#gh-dark-mode-only" alt="WakaTime stats (dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&range=last_7_days&cache_seconds=1800#gh-light-mode-only" alt="WakaTime stats (light)" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&range=last_7_days&cache_seconds=1800#gh-light-mode-only" alt="WakaTime stats (light)" /> -->
   </a>
 </p>
 
