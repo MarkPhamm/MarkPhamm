@@ -43,7 +43,7 @@ If there’s one thing to know about me: I build data systems that turn noise in
 </a>
 
 <!-- Streak stats (new endpoint) -->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=markphamm&theme=dark&short_numbers=true)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=markphamm&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
 <!-- GitHub Readme Stats -->
 <img
