@@ -13,9 +13,11 @@
 ## 🧠 About Me
 
 If there’s one thing to know about me: I build data systems that turn noise into clarity—and I’ll outwork anyone to get there.
-![Working on](https://img.shields.io/badge/Currently-Building%20Data%20Pipelines-blue)
+![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue)
+![Scaling](https://img.shields.io/badge/Scaling-Snowflake%20%26%20Redshift-00e5ff)
 ![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20⚡-orange)
-![Scaling](https://img.shields.io/badge/Scaling-Snowflake%20%7C%20Redshift-00e5ff)
+![Automating](https://img.shields.io/badge/Automating-Terraform%20%26%20Docker-0db7ed)
+![Orchestrating](https://img.shields.io/badge/Orchestrating-Airflow%20%26%20Prefect-017cee)
 
 ---
 
