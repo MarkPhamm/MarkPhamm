@@ -8,6 +8,8 @@
 
 </div>
 
+
+
 ---
 
 ## 🧠 About Me
@@ -18,6 +20,7 @@ If there’s one thing to know about me: I build data systems that turn noise in
 ![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue) 
 ![Scaling](https://img.shields.io/badge/Scaling-Snowflake%20%26%20Redshift-00e5ff) 
 ![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-orange)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MarkPhamm)
 
 </div>
 
