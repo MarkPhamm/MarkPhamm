@@ -30,8 +30,6 @@ If there’s one thing to know about me: I build data systems that turn noise in
 - **Data Science Analyst Intern** @ [NAPAS Vietnam](https://en.napas.com.vn/) – *Fraud and Risk Team*
 
 ---
-
-## 📊 GitHub Stats
 ## 📊 GitHub Stats
 <!-- Snake (shows correct variant for GitHub theme) -->
 ![github-snake-dark](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
