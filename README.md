@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # 👋 Hi there, I'm Minh (Mark) Pham
 
@@ -6,8 +6,9 @@
 
 ### 💡 Passionate about Analytics Engineering, Business Intelligence, and Data Science
 
-</div>
+</div> -->
 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=Hi+there+%E2%9C%A8%2C;I%27m+Minh+%28Mark%29+Pham;Analytics+Engineering+%7C+Business+Intelligence+%7C+Data+Science)](https://git.io/typing-svg)
 
 
 ---
