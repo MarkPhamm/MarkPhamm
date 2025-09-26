@@ -32,29 +32,30 @@ If there’s one thing to know about me: I build data systems that turn noise in
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 <!-- Snake (shows correct variant for GitHub theme) -->
 ![github-snake-dark](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github-snake-light](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<!-- <p align="center"> -->
-  <!-- <img src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/main/images/wakatime_calendar_dark.svg#gh-dark-mode-only" alt="WakaTime Activity (last year)" /> -->
-  <!-- <img src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/main/images/wakatime_calendar_light.svg#gh-light-mode-only" alt="WakaTime Activity (last year)" /> -->
-<!-- </p> -->
-
-<a href="https://wakatime.com/@MarkPham">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&langs_count=15&theme=radical" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&range=last_7_days&langs_count=15&theme=radical" alt="WakaTime stats (light)" /> -->
-</a>
-
-<!-- Streak stats (new endpoint) -->
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=markphamm&theme=dark&short_numbers=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-<!-- GitHub Readme Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=markphamm&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false"
-  alt="GitHub Stats"
-  loading="lazy"
-/>
+<!-- Stats arranged side by side -->
+<table align="center">
+  <tr>
+    <td>
+      <!-- WakaTime Stats -->
+      <a href="https://wakatime.com/@MarkPham">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&langs_count=15&theme=radical" alt="WakaTime Stats" />
+      </a>
+    </td>
+    <td>
+      <!-- GitHub Streak and Stats stacked -->
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=markphamm&theme=dark&short_numbers=true" alt="GitHub Streak" />
+      </a>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=markphamm&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" loading="lazy" />
+    </td>
+  </tr>
+</table>
 
 ### 📊 Business Intelligence  
 
