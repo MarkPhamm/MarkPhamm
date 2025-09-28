@@ -55,6 +55,12 @@ If there’s one thing to know about me: I build data systems that turn noise in
   </tr>
 </table>
 
+<h2 align="left">Trophies 🏆 </h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarkPhamm&theme=darkhub" alt="Trophies" />
+</p>
+
+## Tools
 ### 📊 Business Intelligence  
 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white) ![Hex](https://img.shields.io/badge/Hex-FB9BA3?style=for-the-badge) ![Mode](https://img.shields.io/badge/Mode-1A1A1A?style=for-the-badge&logo=mode&logoColor=white)
@@ -135,4 +141,4 @@ I enjoy tackling complex challenges in SQL, Python (Pandas), and building modern
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhbphamm/)
-> Feel free to explore my projects and reach out for collaboration or discussion. Looking forward to connecting with you!
+> Feel free to explore my projects and reach out for collaboration or discussion. Looking forward to connecting with you
