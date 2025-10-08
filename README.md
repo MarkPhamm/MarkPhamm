@@ -1,7 +1,8 @@
 ![Cover For Notion](https://github.com/user-attachments/assets/7a3c0f97-1fd4-481c-a37d-56fb639e8537)
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=Hi+there+%E2%9C%A8+%2C;I%27m+Minh+%28Mark%29+Pham)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=Hi+there+%F0%9F%A5%9A+%2C;I%27m+Minh+%28Mark%29+Pham)](https://git.io/typing-svg)
+
 
 ## 🎓 TCU Alumnus (MIS & Mathematics, Fintech Minor)  
 
