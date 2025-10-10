@@ -14,7 +14,8 @@
 
 If there’s one thing to know about me: I build data systems that turn noise into clarity—and I’ll outwork anyone to get there.
 <div align="center">
-
+  
+[![wakatime](https://wakatime.com/badge/user/894cf02a-9974-42d0-acde-603cdd98fe17.svg)](https://wakatime.com/@894cf02a-9974-42d0-acde-603cdd98fe17)
 ![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue) 
 ![Scaling](https://img.shields.io/badge/Scaling-Snowflake%20%26%20Redshift-00e5ff) 
 ![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-orange)
