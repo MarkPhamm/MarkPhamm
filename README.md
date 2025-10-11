@@ -26,11 +26,11 @@ If there’s one thing to know about me: I build data systems that turn noise in
 <!--START_SECTION:waka-->
 
 ```txt
-SQL          9 hrs 7 mins    ███████████░░░░░░░░░░░░░░   44.57 %
-Python       3 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
-CSV          1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Markdown     1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-YAML         1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+SQL          7 hrs 10 mins   █████████▓░░░░░░░░░░░░░░░   39.08 %
+Python       3 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
+CSV          1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Markdown     1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
 ```
 
 <!--END_SECTION:waka-->
