@@ -78,10 +78,11 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
   </tr>
 </table>
 
-<h2 align="left">Trophies 🏆 </h2>
+<h2 align="left">Trophies 🏆</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarkPhamm&theme=darkhub" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarkPhamm&theme=darkhub&row=1&column=7" alt="Trophies" />
 </p>
+
 
 ## Tools <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### 📊 Business Intelligence  
