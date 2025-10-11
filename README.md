@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=Hi+there+%F0%9F%A5%9A+%2C;I%27m+Minh+%28Mark%29+Pham)](https://git.io/typing-svg)
 
-## 🌐 Let's Connect
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🌐 Let's Connect <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left">
   <a href="https://www.linkedin.com/in/minhbphamm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -16,8 +15,7 @@
   </a>
 </p>
 
-## 🧠 About Me 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🧠 About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 If there’s one thing to know about me: I build data systems that turn noise into clarity—and I’ll outwork anyone to get there.
 <div align="center">
@@ -43,8 +41,7 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
-## 💼 Experience
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 💼 Experience <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - **Analytics Engineer** @ [Insurify, Inc.](https://insurify.com/) – *Marketing Tech & Core Analytics*
 - **Data Engineer Intern** @ [Lazard & Co Ltd](https://www.linkedin.com/company/lazard/) – *Financial Advisory Team*
@@ -53,8 +50,7 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
 - **Data Science Analyst Intern** @ [KPIM](https://kpim.vn/) – *Consulting Team*
 - **Data Science Analyst Intern** @ [NAPAS Vietnam](https://en.napas.com.vn/) – *Fraud and Risk Team*
 
-## 📊 GitHub Stats
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📊 GitHub Stats <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Snake (shows correct variant for GitHub theme) -->
 ![github-snake-dark](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github-snake-light](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -84,8 +80,7 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
   <img src="https://github-profile-trophy.vercel.app/?username=MarkPhamm&theme=darkhub" alt="Trophies" />
 </p>
 
-## Tools
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Tools <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### 📊 Business Intelligence  
 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white) ![Hex](https://img.shields.io/badge/Hex-FB9BA3?style=for-the-badge) ![Mode](https://img.shields.io/badge/Mode-1A1A1A?style=for-the-badge&logo=mode&logoColor=white)
@@ -120,8 +115,7 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
 
 ---
 
-## 🔍 Interests
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🔍 Interests <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 I’ve solved over **1000+ data problems** on:
 
 - [StrataScratch](https://platform.stratascratch.com/user/SmartPersonality1862)
@@ -132,8 +126,7 @@ I enjoy tackling complex challenges in SQL, Python (Pandas), and building modern
 
 ---
 
-## 🚀 Projects Showcase  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🚀 Projects Showcase <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <a href="https://github.com/MarkPhamm/Stats-Calculator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkPhamm&repo=Stats-Calculator&theme=radical" />
