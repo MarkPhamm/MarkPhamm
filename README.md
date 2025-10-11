@@ -53,7 +53,7 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
 - **Data Science Analyst Intern** @ [KPIM](https://kpim.vn/) – *Consulting Team*
 - **Data Science Analyst Intern** @ [NAPAS Vietnam](https://en.napas.com.vn/) – *Fraud and Risk Team*
 
-## 📊 GitHub Stats <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📊 Stats <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Snake (shows correct variant for GitHub theme) -->
 ![github-snake-dark](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github-snake-light](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -77,6 +77,19 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://leetcode.com/u/markphammm/">
+    <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap" width="100%" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://platform.stratascratch.com/user/SmartPersonality1862">
+    <img src="https://img.shields.io/badge/StrataScratch-Top%201%25%20User-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAQlBMVEVHcEwAAACqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqU8dkkAAAAFXRSTlMAAwcQICYoP0FZX2FvhJidp7C5wMTCu4W+AAAAQklEQVQYV2NgAAIYGBgYGBkYGBgYGCQZGAkYGBgYGBgYGBgYGBgYGBkYGBgYGBgYGBgYGBgYGBgYGBgA6rADy2Z8nJ8AAAAASUVORK5CYII=" alt="StrataScratch Stats" width="60%" />
+  </a>
+</p>
+
 
 <h2 align="left">Trophies 🏆</h2>
 <p align="center">
