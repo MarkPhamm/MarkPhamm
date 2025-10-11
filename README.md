@@ -13,7 +13,6 @@
 ## 🧠 About Me
 
 If there’s one thing to know about me: I build data systems that turn noise into clarity—and I’ll outwork anyone to get there.
-
 <div align="center">
   
 [![wakatime](https://wakatime.com/badge/user/894cf02a-9974-42d0-acde-603cdd98fe17.svg)](https://wakatime.com/@894cf02a-9974-42d0-acde-603cdd98fe17)
@@ -24,19 +23,7 @@ If there’s one thing to know about me: I build data systems that turn noise in
 
 </div>
 
----
-
-## 💼 Experience
-
-- **Analytics Engineer** @ [Insurify, Inc.](https://insurify.com/) – *Marketing Tech & Core Analytics*
-- **Data Engineer Intern** @ [Lazard & Co Ltd](https://www.linkedin.com/company/lazard/) – *Financial Advisory Team*
-- **Business Intelligence Engineer Intern** @ [Techsmith Corp](https://www.linkedin.com/company/techsmith-corporation/) – *Sales, Marketing & Ops*
-- **Data Analyst Intern** @ [Corning Inc.](https://www.linkedin.com/company/corning-incorporated/) – *Global Supply Chain*
-- **Data Science Analyst Intern** @ [KPIM](https://kpim.vn/) – *Consulting Team*
-- **Data Science Analyst Intern** @ [NAPAS Vietnam](https://en.napas.com.vn/) – *Fraud and Risk Team*
-
----
-## 📊 GitHub Stats
+### Things I'm working on this week
 <!--START_SECTION:waka-->
 
 ```txt
@@ -48,6 +35,19 @@ YAML         1 hr 16 mins    █▓░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+---
+## 💼 Experience
+
+- **Analytics Engineer** @ [Insurify, Inc.](https://insurify.com/) – *Marketing Tech & Core Analytics*
+- **Data Engineer Intern** @ [Lazard & Co Ltd](https://www.linkedin.com/company/lazard/) – *Financial Advisory Team*
+- **Business Intelligence Engineer Intern** @ [Techsmith Corp](https://www.linkedin.com/company/techsmith-corporation/) – *Sales, Marketing & Ops*
+- **Data Analyst Intern** @ [Corning Inc.](https://www.linkedin.com/company/corning-incorporated/) – *Global Supply Chain*
+- **Data Science Analyst Intern** @ [KPIM](https://kpim.vn/) – *Consulting Team*
+- **Data Science Analyst Intern** @ [NAPAS Vietnam](https://en.napas.com.vn/) – *Fraud and Risk Team*
+
+---
+## 📊 GitHub Stats
 <!-- Snake (shows correct variant for GitHub theme) -->
 ![github-snake-dark](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github-snake-light](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
