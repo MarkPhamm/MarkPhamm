@@ -39,6 +39,14 @@ If there’s one thing to know about me: I build data systems that turn noise in
 ## 📊 GitHub Stats
 <!--START_SECTION:waka-->
 
+```txt
+SQL          9 hrs 7 mins    ███████████░░░░░░░░░░░░░░   44.57 %
+Python       3 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
+CSV          1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Markdown     1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+YAML         1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+```
+
 <!--END_SECTION:waka-->
 <!-- Snake (shows correct variant for GitHub theme) -->
 ![github-snake-dark](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
