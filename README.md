@@ -42,6 +42,26 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=markphamm&theme=nord&hide_border=true&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff" alt="Activity Graph" width="100%" />
+<table align="center" cellspacing="0" cellpadding="0" border="0" width="100%">
+  <tr>
+    <!-- Commits Card -->
+    <td align="center" valign="top" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=markphamm&theme=nord_dark&utcOffset=8"
+        alt="GitHub Productive Time"
+        width="440" />
+    </td>
+    <!-- Most Commit Languages Card -->
+    <td align="center" valign="top" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markphamm&theme=nord_dark"
+        alt="Most Commit Language"
+        width="440" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 ## 💼 Experience <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -54,9 +74,21 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
 - **Data Science Analyst Intern** @ [NAPAS Vietnam](https://en.napas.com.vn/) – *Fraud and Risk Team*
 
 ## 📊 Stats <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Snake (shows correct variant for GitHub theme) -->
-![github-snake-dark](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github-snake-light](https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+
+<div align="center" width="100%">
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
+  </picture>
+</div>
+
+<div align="center" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
+</div>
 
 <!-- Stats arranged side by side -->
 <table align="center">
@@ -64,7 +96,7 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
     <td>
       <!-- WakaTime Stats -->
       <a href="https://wakatime.com/@MarkPham">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&langs_count=15&theme=radical" alt="WakaTime Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&langs_count=15&theme=dark" alt="WakaTime Stats" />
       </a>
     </td>
     <td>
@@ -78,11 +110,10 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://leetcode.com/u/markphammm/">
-    <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap" width="100%" alt="LeetCode Stats" />
-  </a>
-</p>
+<a href="https://leetcode.com/u/markphammm/">
+  <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap" alt="LeetCode Stats" width="100%" />
+</a>
+
 
 <p align="center">
   <a href="https://platform.stratascratch.com/user/SmartPersonality1862">
