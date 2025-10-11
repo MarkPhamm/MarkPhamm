@@ -13,6 +13,12 @@
 ## 🧠 About Me
 
 If there’s one thing to know about me: I build data systems that turn noise into clarity—and I’ll outwork anyone to get there.
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <div align="center">
   
 [![wakatime](https://wakatime.com/badge/user/894cf02a-9974-42d0-acde-603cdd98fe17.svg)](https://wakatime.com/@894cf02a-9974-42d0-acde-603cdd98fe17)
