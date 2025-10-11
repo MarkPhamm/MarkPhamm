@@ -163,6 +163,7 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
 
 ---
 
+<!-- 
 ## 🔍 Interests <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 I’ve solved over **1000+ data problems** on:
 
@@ -203,3 +204,5 @@ I enjoy tackling complex challenges in SQL, Python (Pandas), and building modern
 </p>
 
 ---
+-->
+
