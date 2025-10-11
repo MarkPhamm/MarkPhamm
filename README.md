@@ -127,7 +127,7 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
   <img src="https://github-profile-trophy.vercel.app/?username=MarkPhamm&theme=darkhub&row=1&column=7" alt="Trophies" />
 </p>
 
-
+<!-- 
 ## Tools <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### 📊 Business Intelligence  
 
@@ -162,8 +162,6 @@ YAML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
-
-<!-- 
 ## 🔍 Interests <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 I’ve solved over **1000+ data problems** on:
 
