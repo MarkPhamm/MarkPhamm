@@ -17,7 +17,10 @@
 
 ## 🧠 About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-If there’s one thing to know about me: I build data systems that turn noise into clarity—and I’ll outwork anyone to get there.
+<blockquote align="center">
+  <b><i>“If there’s one thing to know about me: I build data systems that turn noise into clarity - and I’ll outwork anyone to get there.”</i></b>
+</blockquote>
+
 <div align="center">
   
 [![wakatime](https://wakatime.com/badge/user/894cf02a-9974-42d0-acde-603cdd98fe17.svg)](https://wakatime.com/@894cf02a-9974-42d0-acde-603cdd98fe17)
