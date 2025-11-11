@@ -5,13 +5,13 @@
 ## 🌐 Let's Connect <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left">
   <a href="https://www.linkedin.com/in/minhbphamm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/u/markphammm/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="https://platform.stratascratch.com/user/SmartPersonality1862" target="_blank">
-    <img src="https://img.shields.io/badge/StrataScratch-Practice-00A79D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9jhTEsAAAAK3RSTlMAAQIDBAUGBwgJCgsMDQ8QERITFBUWFxgZGhscHR4fICEiIyQmJygpKiuzg1ZnAAAAPUlEQVR42jXJRw6AIAwEwG9r2+9fZbCllPw/6wJWiRMwCqbk9zMBoIRlpBKR6FQAoipxkAdRHWuMtk5+egAtI7AmZpjE9AAAAAElFTkSuQmCC" alt="StrataScratch logo" />
+    <img src="https://img.shields.io/badge/StrataScratch-Profile-00A79D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9jhTEsAAAAK3RSTlMAAQIDBAUGBwgJCgsMDQ8QERITFBUWFxgZGhscHR4fICEiIyQmJygpKiuzg1ZnAAAAPUlEQVR42jXJRw6AIAwEwG9r2+9fZbCllPw/6wJWiRMwCqbk9zMBoIRlpBKR6FQAoipxkAdRHWuMtk5+egAtI7AmZpjE9AAAAAElFTkSuQmCC" alt="StrataScratch logo" />
   </a>
 </p>
 
