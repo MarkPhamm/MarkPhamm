@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=Hi+there+%F0%9F%A5%9A+%2C;I%27m+Minh+%28Mark%29+Pham)](https://git.io/typing-svg)
 
 ## 🌐 Let's Connect <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="left">
   <a href="https://www.linkedin.com/in/minhbphamm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
@@ -24,7 +25,7 @@
 <div align="center">
   
 [![wakatime](https://wakatime.com/badge/user/894cf02a-9974-42d0-acde-603cdd98fe17.svg)](https://wakatime.com/@894cf02a-9974-42d0-acde-603cdd98fe17)
-![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue) 
+![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue)
 ![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-orange)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MarkPhamm)
 
@@ -47,14 +48,14 @@ HTML         40 mins         ▓░░░░░░░░░░░░░░░░
   <tr>
     <!-- Commits Card -->
     <td align="center" valign="top" width="50%">
-      <img 
+      <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=markphamm&theme=nord_dark&utcOffset=8"
         alt="GitHub Productive Time"
         width="440" />
     </td>
     <!-- Most Commit Languages Card -->
     <td align="center" valign="top" width="50%">
-      <img 
+      <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markphamm&theme=nord_dark"
         alt="Most Commit Language"
         width="440" />
@@ -62,8 +63,8 @@ HTML         40 mins         ▓░░░░░░░░░░░░░░░░
   </tr>
 </table>
 
-
 ---
+
 ## 💼 Experience <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - **Analytics Engineer** @ [Insurify, Inc.](https://insurify.com/) – *Marketing Tech & Core Analytics*
@@ -74,8 +75,6 @@ HTML         40 mins         ▓░░░░░░░░░░░░░░░░
 - **Data Science Analyst Intern** @ [NAPAS Vietnam](https://en.napas.com.vn/) – *Fraud and Risk Team*
 
 ## 📊 Stats <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 
 <div align="center" width="100%">
   <!-- Snake Animation -->
@@ -90,17 +89,15 @@ HTML         40 mins         ▓░░░░░░░░░░░░░░░░
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
 </div>
 
-<!-- Stats arranged side by side -->
+<!-- Stats arranged side by side - commented out due to rate limiting
 <table align="center">
   <tr>
     <td>
-      <!-- WakaTime Stats -->
       <a href="https://wakatime.com/@MarkPham">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarkPham&langs_count=15&theme=dark" alt="WakaTime Stats" />
       </a>
     </td>
     <td>
-      <!-- GitHub Streak and Stats stacked -->
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img src="https://github-readme-streak-stats-eight.vercel.app?user=markphamm&theme=dark&short_numbers=true" alt="GitHub Streak" />
       </a>
@@ -109,11 +106,11 @@ HTML         40 mins         ▓░░░░░░░░░░░░░░░░
     </td>
   </tr>
 </table>
+-->
 
 <a href="https://leetcode.com/u/markphammm/">
   <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap" alt="LeetCode Stats" width="100%" />
 </a>
-
 
 <p align="center">
   <a href="https://platform.stratascratch.com/user/SmartPersonality1862">
@@ -121,11 +118,12 @@ HTML         40 mins         ▓░░░░░░░░░░░░░░░░
   </a>
 </p>
 
-
+<!--
 <h2 align="left">Trophies 🏆</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MarkPhamm&theme=darkhub&row=1&column=7" alt="Trophies" />
 </p>
+-->
 
 <!-- 
 ## Tools <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -203,4 +201,3 @@ I enjoy tackling complex challenges in SQL, Python (Pandas), and building modern
 
 ---
 -->
-
