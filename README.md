@@ -35,7 +35,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL         12 mins         ██████████████▓░░░░░░░░░░   58.76 %
+Terraform   6 mins          ████████▒░░░░░░░░░░░░░░░░   33.50 %
+HTML        1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
 ```
 
 <!--END_SECTION:waka-->
