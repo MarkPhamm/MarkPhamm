@@ -7,6 +7,7 @@ Generate a GitHub-like contribution calendar from WakaTime daily totals.
 - Aggregates heartbeats by day to calculate daily coding time
 - Uses Basic authentication for personal API keys
 - Writes SVG to images/wakatime_calendar_dark.svg and images/wakatime_calendar_light.svg
+- Downloads WakaTime share charts (Languages, Categories, Activity) locally
 """
 
 import os, sys, datetime as dt, requests, time
@@ -18,6 +19,31 @@ from dotenv import load_dotenv
 import base64
 
 API = "https://api.wakatime.com/api/v1/users/current/heartbeats"
+
+# WakaTime share chart URLs - these are public embeddable charts
+WAKATIME_SHARE_CHARTS = {
+    "wakatime_activity": "https://wakatime.com/share/@MarkPham/bf84f45c-1df0-48c0-95b2-241fa9218b90.svg",
+    "wakatime_languages": "https://wakatime.com/share/@MarkPham/09c08320-7dd3-4d9c-a627-d1b4d27d6d2f.svg",
+    "wakatime_categories": "https://wakatime.com/share/@MarkPham/585625a7-3a6e-4abc-9a4f-0961c335b118.svg",
+}
+
+
+def download_share_charts():
+    """Download WakaTime share charts locally so they render on GitHub."""
+    Path("images").mkdir(parents=True, exist_ok=True)
+
+    for name, url in WAKATIME_SHARE_CHARTS.items():
+        print(f"Downloading {name} from {url}...")
+        try:
+            r = requests.get(url, timeout=30)
+            r.raise_for_status()
+
+            out_path = f"images/{name}.svg"
+            with open(out_path, "w", encoding="utf-8") as f:
+                f.write(r.text)
+            print(f"  Saved to {out_path}")
+        except requests.exceptions.RequestException as e:
+            print(f"  Error downloading {name}: {e}")
 
 
 def get_days(start: dt.date, end: dt.date, api_key: str):
@@ -170,6 +196,11 @@ def main():
     if not api_key:
         print("WAKATIME_API_KEY env var not set", file=sys.stderr)
         sys.exit(1)
+
+    # Download WakaTime share charts (public, no API key needed)
+    print("Downloading WakaTime share charts...")
+    download_share_charts()
+    print()
 
     end = dt.date.today()
     start = end - dt.timedelta(days=364)  # Full year (365 days)

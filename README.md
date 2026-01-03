@@ -42,16 +42,16 @@ No activity tracked
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=markphamm&theme=nord&hide_border=true&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff" alt="Activity Graph" width="100%" />
 
 <p align="center">
-  <img src="https://wakatime.com/share/@MarkPham/bf84f45c-1df0-48c0-95b2-241fa9218b90.svg" alt="WakaTime Activity" />
+  <img src="./images/wakatime_activity.svg" alt="WakaTime Activity" />
 </p>
 
 <table align="center" cellspacing="0" cellpadding="0" border="0" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://wakatime.com/share/@MarkPham/09c08320-7dd3-4d9c-a627-d1b4d27d6d2f.svg" alt="WakaTime Languages" />
+      <img src="./images/wakatime_languages.svg" alt="WakaTime Languages" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://wakatime.com/share/@MarkPham/585625a7-3a6e-4abc-9a4f-0961c335b118.svg" alt="WakaTime Categories" />
+      <img src="./images/wakatime_categories.svg" alt="WakaTime Categories" />
     </td>
   </tr>
 </table>
