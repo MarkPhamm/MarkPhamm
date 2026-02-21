@@ -51,31 +51,31 @@ CSV          21 mins               ▓░░░░░░░░░░░░░░
 
 <table align="center" cellspacing="0" cellpadding="0" border="0" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <!-- <td align="center" valign="top" width="50%">
       <img src="./images/wakatime_languages.svg" alt="WakaTime Languages" />
-    </td>
-    <td align="center" valign="top" width="50%">
+    </td> -->
+    <!-- <td align="center" valign="top" width="50%">
       <img src="./images/wakatime_categories.svg" alt="WakaTime Categories" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
 <table align="center" cellspacing="0" cellpadding="0" border="0" width="100%">
   <tr>
     <!-- Commits Card -->
-    <td align="center" valign="top" width="50%">
+    <!-- <td align="center" valign="top" width="50%">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=markphamm&theme=nord_dark&utcOffset=8"
         alt="GitHub Productive Time"
         width="440" />
-    </td>
+    </td> -->
     <!-- Most Commit Languages Card -->
-    <td align="center" valign="top" width="50%">
+    <!-- <td align="center" valign="top" width="50%">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markphamm&theme=nord_dark"
         alt="Most Commit Language"
         width="440" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
