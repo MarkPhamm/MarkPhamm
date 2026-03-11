@@ -28,8 +28,16 @@
 ![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue)
 ![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-orange)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MarkPhamm)
-
 </div>
+
+### Github Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=dark&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Markphamm&show_icons=true&theme=dark&hide_border=true" width="49%"/>
+</p>
+
+
+
 
 ### Things I'm working on this week
 <!--START_SECTION:waka-->
@@ -78,7 +86,6 @@ Git Config   55 mins               █▒░░░░░░░░░░░░░
     </td> -->
   </tr>
 </table>
-
 ---
 
 ## 💼 Experience <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
