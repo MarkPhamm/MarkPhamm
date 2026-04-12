@@ -50,11 +50,10 @@
 ## 📊 Stats <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Github Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=dark&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Markphamm&show_icons=true&theme=dark&hide_border=true" width="49%"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=dark&hide_border=true" width="49%">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Markphamm&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"> -->
+</div>
 
 ### Things I'm working on this week
 <!--START_SECTION:waka-->
