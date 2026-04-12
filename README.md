@@ -16,10 +16,12 @@
   </a>
 </p>
 
+---
+
 ## 🧠 About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <blockquote align="center">
-  <b><i>“If there’s one thing to know about me: I build data systems that turn noise into clarity - and I’ll outwork anyone to get there.”</i></b>
+  <b><i>"If there's one thing to know about me: I build data systems that turn noise into clarity - and I'll outwork anyone to get there."</i></b>
 </blockquote>
 
 <div align="center">
@@ -30,14 +32,27 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MarkPhamm)
 </div>
 
+---
+
+## 💼 Experience <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+- **Analytics Engineer** @ [Insurify, Inc.](https://insurify.com/) – *Marketing Tech & Core Analytics*
+- **Data Engineer Intern** @ [Lazard & Co Ltd](https://www.linkedin.com/company/lazard/) – *Financial Advisory Team*
+- **Business Intelligence Engineer Intern** @ [Techsmith Corp](https://www.linkedin.com/company/techsmith-corporation/) – *Sales, Marketing & Ops*
+- **Data Analyst Intern** @ [Corning Inc.](https://www.linkedin.com/company/corning-incorporated/) – *Global Supply Chain*
+- **Data Science Analyst Intern** @ [KPIM](https://kpim.vn/) – *Consulting Team*
+- **Data Science Analyst Intern** @ [NAPAS Vietnam](https://en.napas.com.vn/) – *Fraud and Risk Team*
+
+---
+
+## 📊 Stats <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### Github Stats
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=dark&hide_border=true" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Markphamm&show_icons=true&theme=dark&hide_border=true" width="49%"/>
 </p>
-
-
-
 
 ### Things I'm working on this week
 <!--START_SECTION:waka-->
@@ -51,56 +66,18 @@ TypeScript   1 hr 9 mins           ██▒░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+### Activity
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=markphamm&theme=nord&hide_border=true&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff" alt="Activity Graph" width="100%" />
 
 <p align="center">
   <img src="./images/wakatime_activity.svg" alt="WakaTime Activity" />
 </p>
 
-<table align="center" cellspacing="0" cellpadding="0" border="0" width="100%">
-  <tr>
-    <!-- <td align="center" valign="top" width="50%">
-      <img src="./images/wakatime_languages.svg" alt="WakaTime Languages" />
-    </td> -->
-    <!-- <td align="center" valign="top" width="50%">
-      <img src="./images/wakatime_categories.svg" alt="WakaTime Categories" />
-    </td> -->
-  </tr>
-</table>
-
-<table align="center" cellspacing="0" cellpadding="0" border="0" width="100%">
-  <tr>
-    <!-- Commits Card -->
-    <!-- <td align="center" valign="top" width="50%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=markphamm&theme=nord_dark&utcOffset=8"
-        alt="GitHub Productive Time"
-        width="440" />
-    </td> -->
-    <!-- Most Commit Languages Card -->
-    <!-- <td align="center" valign="top" width="50%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markphamm&theme=nord_dark"
-        alt="Most Commit Language"
-        width="440" />
-    </td> -->
-  </tr>
-</table>
----
-
-## 💼 Experience <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-- **Analytics Engineer** @ [Insurify, Inc.](https://insurify.com/) – *Marketing Tech & Core Analytics*
-- **Data Engineer Intern** @ [Lazard & Co Ltd](https://www.linkedin.com/company/lazard/) – *Financial Advisory Team*
-- **Business Intelligence Engineer Intern** @ [Techsmith Corp](https://www.linkedin.com/company/techsmith-corporation/) – *Sales, Marketing & Ops*
-- **Data Analyst Intern** @ [Corning Inc.](https://www.linkedin.com/company/corning-incorporated/) – *Global Supply Chain*
-- **Data Science Analyst Intern** @ [KPIM](https://kpim.vn/) – *Consulting Team*
-- **Data Science Analyst Intern** @ [NAPAS Vietnam](https://en.napas.com.vn/) – *Fraud and Risk Team*
-
-## 📊 Stats <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Contributions
 
 <div align="center" width="100%">
-  <!-- Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg" />
@@ -111,6 +88,18 @@ TypeScript   1 hr 9 mins           ██▒░░░░░░░░░░░░
 <div align="center" width="100%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
 </div>
+
+### Coding Challenges
+
+<a href="https://leetcode.com/u/markphammm/">
+  <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap" alt="LeetCode Stats" width="100%" />
+</a>
+
+<p align="center">
+  <a href="https://platform.stratascratch.com/user/SmartPersonality1862">
+    <img src="https://img.shields.io/badge/StrataScratch-Top%201%25%20User-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAQlBMVEVHcEwAAACqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqU8dkkAAAAFXRSTlMAAwcQICYoP0FZX2FvhJidp7C5wMTCu4W+AAAAQklEQVQYV2NgAAIYGBgYGBkYGBgYGCQZGAkYGBgYGBgYGBgYGBgYGBkYGBgYGBgYGBgYGBgYGBgYGBgA6rADy2Z8nJ8AAAAASUVORK5CYII=" alt="StrataScratch Stats" width="60%" />
+  </a>
+</p>
 
 <!-- Stats arranged side by side - commented out due to rate limiting
 <table align="center">
@@ -131,18 +120,8 @@ TypeScript   1 hr 9 mins           ██▒░░░░░░░░░░░░
 </table>
 -->
 
-<a href="https://leetcode.com/u/markphammm/">
-  <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap" alt="LeetCode Stats" width="100%" />
-</a>
-
-<p align="center">
-  <a href="https://platform.stratascratch.com/user/SmartPersonality1862">
-    <img src="https://img.shields.io/badge/StrataScratch-Top%201%25%20User-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAQlBMVEVHcEwAAACqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqU8dkkAAAAFXRSTlMAAwcQICYoP0FZX2FvhJidp7C5wMTCu4W+AAAAQklEQVQYV2NgAAIYGBgYGBkYGBgYGCQZGAkYGBgYGBgYGBgYGBgYGBkYGBgYGBgYGBgYGBgYGBgYGBgA6rADy2Z8nJ8AAAAASUVORK5CYII=" alt="StrataScratch Stats" width="60%" />
-  </a>
-</p>
-
 <!--
-<h2 align="left">Trophies 🏆</h2>
+<h2 align="left">Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MarkPhamm&theme=darkhub&row=1&column=7" alt="Trophies" />
 </p>
@@ -184,7 +163,7 @@ TypeScript   1 hr 9 mins           ██▒░░░░░░░░░░░░
 
 ---
 ## 🔍 Interests <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-I’ve solved over **1000+ data problems** on:
+I've solved over **1000+ data problems** on:
 
 - [StrataScratch](https://platform.stratascratch.com/user/SmartPersonality1862)
 - [LeetCode](https://leetcode.com/u/markphammm/)
