@@ -42,6 +42,8 @@
 - **Data Analyst Intern** @ [Corning Inc.](https://www.linkedin.com/company/corning-incorporated/) – *Global Supply Chain*
 - **Data Science Analyst Intern** @ [KPIM](https://kpim.vn/) – *Consulting Team*
 - **Data Science Analyst Intern** @ [NAPAS Vietnam](https://en.napas.com.vn/) – *Fraud and Risk Team*
+- **Admin and Moderator** of **Xom Data** - Vietnam's largest Data learning community (**70,000+ members**)
+- **Builder** of **[xomdata.com](https://xomdata.com)** (learning platform) & **[jobs.xomdata.com](https://jobs.xomdata.com)** (Data job board)
 
 ---
 
