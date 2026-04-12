@@ -21,7 +21,7 @@
 ## 🧠 About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <blockquote align="center">
-  <b><i>"If there's one thing to know about me: I build data systems that turn noise into clarity - and I'll outwork anyone to get there."</i></b>
+  <b><i>"Analytics isn't just my job - it's my obsession. Scroll down and see for yourself"</i></b>
 </blockquote>
 
 <div align="center">
