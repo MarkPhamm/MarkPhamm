@@ -1,6 +1,12 @@
 ![Cover For Notion](https://github.com/user-attachments/assets/7a3c0f97-1fd4-481c-a37d-56fb639e8537)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=000000&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
+</picture>
 
 ## 🌐 Let's Connect <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
