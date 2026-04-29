@@ -55,10 +55,11 @@
 
 ## 📊 Stats <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Github Stats
+### GitHub Stats
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=dark&hide_border=true" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Markphamm&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800">
+  <img height="160" src="https://streak-stats.demolab.com/?user=Markphamm&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Markphamm&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
 </div>
 
 ### Things I'm working on this week
