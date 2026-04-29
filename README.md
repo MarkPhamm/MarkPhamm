@@ -58,7 +58,7 @@
 ### Github Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=dark&hide_border=true" width="49%">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Markphamm&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Markphamm&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800">
 </div>
 
 ### Things I'm working on this week
