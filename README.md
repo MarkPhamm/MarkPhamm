@@ -254,7 +254,7 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
 ### Contributions
 
 <div align="center" width="100%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=nord_dark&v=2" alt="GitHub Profile Details" width="100%" />
 </div>
 
 ### Coding Challenges
