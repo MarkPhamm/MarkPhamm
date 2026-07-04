@@ -1,9 +1,9 @@
 ![Cover For Notion](https://github.com/user-attachments/assets/7a3c0f97-1fd4-481c-a37d-56fb639e8537)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
+  <source media="(prefers-color-scheme: dark)"
           srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
-  <source media="(prefers-color-scheme: light)" 
+  <source media="(prefers-color-scheme: light)"
           srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=000000&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
 </picture>
@@ -207,8 +207,6 @@
 
 ### GitHub Stats
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
-
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -256,15 +254,7 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
 ### Contributions
 
 <div align="center" width="100%">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
-  </picture>
-</div>
-
-<div align="center" width="100%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=github_dark" alt="GitHub Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=2077" alt="GitHub Profile Details" width="100%" />
 </div>
 
 ### Coding Challenges
@@ -278,4 +268,3 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
     <img src="https://img.shields.io/badge/StrataScratch-Top%201%25%20User-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAQlBMVEVHcEwAAACqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqU8dkkAAAAFXRSTlMAAwcQICYoP0FZX2FvhJidp7C5wMTCu4W+AAAAQklEQVQYV2NgAAIYGBgYGBkYGBgYGCQZGAkYGBgYGBgYGBgYGBgYGBkYGBgYGBgYGBgYGBgYGBgYGBgA6rADy2Z8nJ8AAAAASUVORK5CYII=" alt="StrataScratch Stats" width="60%" />
   </a>
 </p>
-
