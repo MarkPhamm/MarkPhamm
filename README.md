@@ -49,14 +49,14 @@
         <sub>May 2022 - Sep 2022</sub><br /><br />
         <img src="https://www.google.com/s2/favicons?sz=32&domain=kpim.vn" width="24" height="24" /><br /><br />
         <a href="https://kpim.vn/"><b>KPIM</b></a><br />
-        <sub>Data Science Analyst Intern</sub>
+        <sub>Data Science Intern</sub>
       </td>
       <td align="center" valign="middle" width="1%">➔</td>
       <td align="center" valign="top" width="11%">
         <sub>May 2022 - Sep 2022</sub><br /><br />
         <img src="https://www.google.com/s2/favicons?sz=32&domain=napas.com.vn" width="24" height="24" /><br /><br />
         <a href="https://en.napas.com.vn/"><b>NAPAS Vietnam</b></a><br />
-        <sub>Data Science Analyst Intern</sub>
+        <sub>Data Analyst Intern</sub>
       </td>
       <td align="center" valign="middle" width="1%">➔</td>
       <td align="center" valign="top" width="11%">
