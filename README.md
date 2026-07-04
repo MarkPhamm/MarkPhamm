@@ -235,9 +235,26 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
 
 ### Contributions
 
-<div align="center" width="100%">
-  <img src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-isometric-calendar.svg" alt="GitHub Isometric Contribution Calendar" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
+
+<div align="center">
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <!-- Left: Contribution Cityscape (larger) -->
+      <td width="58%" align="center" style="border: none; padding: 10px;" valign="middle">
+        <img src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-isometric-calendar.svg" width="560px" alt="Contribution Cityscape" />
+      </td>
+      <!-- Right: GitHub Stats on top, Top Languages below -->
+      <td width="42%" align="center" style="border: none; padding: 10px;" valign="middle">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=markphamm&theme=tokyonight&show_icons=true&include_all_commits=true&bg_color=0b0f19&title_color=06B6D4&text_color=e5e7eb&icon_color=8B5CF6&border_color=1f2937&hide_border=false" width="380" alt="GitHub Stats" />
+        <br /><br />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=markphamm&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=06B6D4&text_color=e5e7eb&icon_color=8B5CF6&border_color=1f2937&hide_border=false" width="380" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
 <div align="center" width="100%">
   <picture>
