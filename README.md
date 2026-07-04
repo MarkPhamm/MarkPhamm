@@ -55,7 +55,7 @@
 
 ## 💼 Techstack <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img width="1878" height="1210" alt="image" src="https://github.com/user-attachments/assets/20e8552d-667e-4da4-b54a-43ed0c9e8e9f" />
+<img width="1847" height="1083" alt="image" src="https://github.com/user-attachments/assets/17be1e60-170c-434d-b3f2-7b325126a44c" />
 
 <br/>
 
