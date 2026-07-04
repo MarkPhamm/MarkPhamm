@@ -53,6 +53,110 @@
 
 ---
 
+## 💼 Techstack <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img width="1878" height="1210" alt="image" src="https://github.com/user-attachments/assets/20e8552d-667e-4da4-b54a-43ed0c9e8e9f" />
+
+<br/>
+
+<div align="center">
+  <h3>🛠️ Tech Stack &amp; Reference Logos</h3>
+  <table width="100%">
+    <tr>
+      <td width="25%"><b>🏢 Data Warehouse</b></td>
+      <td width="75%">
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake"/>
+        <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" alt="Redshift"/>
+        <img src="https://img.shields.io/badge/BigQuery-6699FF?style=flat-square&logo=google-bigquery&logoColor=white" alt="BigQuery"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🌊 Data Lakehouse</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
+        <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB"/>
+        <img src="https://img.shields.io/badge/MotherDuck-FFD400?style=flat-square&logo=duckdb&logoColor=black" alt="MotherDuck"/>
+        <img src="https://img.shields.io/badge/Iceberg-1E88E5?style=flat-square&logo=apacheiceberg&logoColor=white" alt="Iceberg"/>
+        <img src="https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=delta&logoColor=white" alt="Delta Lake"/>
+        <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white" alt="Trino"/>
+        <img src="https://img.shields.io/badge/PrestoDB-5890FF?style=flat-square&logo=presto&logoColor=white" alt="PrestoDB"/>
+        <img src="https://img.shields.io/badge/Pinot-000000?style=flat-square&logo=apache&logoColor=white" alt="Pinot"/>
+        <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive"/>
+        <img src="https://img.shields.io/badge/HDFS-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="HDFS"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🔄 Data Processing &amp; Transformation</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
+        <img src="https://img.shields.io/badge/Spark_Structured_Streaming-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark Structured Streaming"/>
+        <img src="https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" alt="Flink"/>
+        <img src="https://img.shields.io/badge/Alteryx-0078D4?style=flat-square&logo=alteryx&logoColor=white" alt="Alteryx"/>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
+        <img src="https://img.shields.io/badge/Kinesis-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Kinesis"/>
+        <img src="https://img.shields.io/badge/CDC-4B8BBE?style=flat-square&logo=debezium&logoColor=white" alt="CDC"/>
+        <img src="https://img.shields.io/badge/dbt_Core-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt Core"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>📥 Data Integration &amp; Reverse ETL</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Airbyte-6131F3?style=flat-square&logo=airbyte&logoColor=white" alt="Airbyte"/>
+        <img src="https://img.shields.io/badge/Fivetran-326DE6?style=flat-square&logo=fivetran&logoColor=white" alt="Fivetran"/>
+        <img src="https://img.shields.io/badge/dltHub-4285F4?style=flat-square&logo=python&logoColor=white" alt="dltHub"/>
+        <img src="https://img.shields.io/badge/Hightouch-000000?style=flat-square&logo=hightouch&logoColor=white" alt="Hightouch"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>⚙️ Orchestration</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow"/>
+        <img src="https://img.shields.io/badge/Astronomer-4F46E5?style=flat-square&logo=apacheairflow&logoColor=white" alt="Astronomer"/>
+        <img src="https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=prefect&logoColor=white" alt="Prefect"/>
+        <img src="https://img.shields.io/badge/Mage-8A2BE2?style=flat-square&logo=magic&logoColor=white" alt="Mage"/>
+        <img src="https://img.shields.io/badge/Dagster-251E3E?style=flat-square&logo=dagster&logoColor=white" alt="Dagster"/>
+        <img src="https://img.shields.io/badge/Orchestra-000000?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml&logoColor=white" alt="Orchestra"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>📊 BI &amp; Analytics</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Mode-000000?style=flat-square&logo=mode&logoColor=white" alt="Mode"/>
+        <img src="https://img.shields.io/badge/Hex-000000?style=flat-square&logo=hex&logoColor=white" alt="Hex"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+        <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+        <img src="https://img.shields.io/badge/Visivo-000000?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml&logoColor=white" alt="Visivo"/>
+        <img src="https://img.shields.io/badge/Lightdash-000000?style=flat-square&logo=lightdash&logoColor=white" alt="Lightdash"/>
+        <img src="https://img.shields.io/badge/Superset-0073B7?style=flat-square&logo=apache-superset&logoColor=white" alt="Superset"/>
+        <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🚀 DevOps &amp; Cloud</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🤖 AI Tooling</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+        <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+        <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
+        <img src="https://img.shields.io/badge/MCP_Servers-4B32C3?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml&logoColor=white" alt="MCP servers (dbt, Asana, Slack)"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📊 Stats <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### GitHub Stats
