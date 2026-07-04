@@ -266,14 +266,19 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
 
 ### Coding Challenges
 
-<p align="center">
-  <a href="https://leetcode.com/u/markphammm/">
-    <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap&v=2" alt="LeetCode Stats" width="65%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://platform.stratascratch.com/user/SmartPersonality1862">
-    <img src="./images/stratascratch_card.svg" alt="StrataScratch Stats" width="65%" />
-  </a>
-</p>
+<div align="center">
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none; padding: 10px;" valign="top">
+        <a href="https://leetcode.com/u/markphammm/">
+          <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap&v=2" alt="LeetCode Stats" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="border: none; padding: 10px;" valign="top">
+        <a href="https://platform.stratascratch.com/user/SmartPersonality1862">
+          <img src="./images/stratascratch_card.svg" alt="StrataScratch Stats" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
