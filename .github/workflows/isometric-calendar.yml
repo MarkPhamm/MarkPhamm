@@ -1,0 +1,23 @@
+name: Generate Isometric Calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs every day at 00:00 UTC
+  workflow_dispatch:     # allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate isometric contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          filename: github-isometric-calendar.svg
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: output
