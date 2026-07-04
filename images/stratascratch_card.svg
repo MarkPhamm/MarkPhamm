@@ -25,7 +25,7 @@
   <circle cx="112" cy="112" r="46" fill="none" stroke-width="9" class="ring-fg"
           stroke-dasharray="273.5 289.03"/>
   <text x="112" y="112" text-anchor="middle" class="big">635</text>
-  <text x="112" y="130" text-anchor="middle" class="sub">/ 671 solved</text>
+  <text x="112" y="130" text-anchor="middle" class="sub">solved</text>
 
   <!-- difficulty rows -->
   <!-- Easy -->
