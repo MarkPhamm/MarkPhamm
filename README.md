@@ -274,6 +274,6 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
 
 <p align="center">
   <a href="https://platform.stratascratch.com/user/SmartPersonality1862">
-    <img src="https://img.shields.io/badge/StrataScratch-Top%201%25%20User-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAQlBMVEVHcEwAAACqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqU8dkkAAAAFXRSTlMAAwcQICYoP0FZX2FvhJidp7C5wMTCu4W+AAAAQklEQVQYV2NgAAIYGBgYGBkYGBgYGCQZGAkYGBgYGBgYGBgYGBgYGBkYGBgYGBgYGBgYGBgYGBgYGBgA6rADy2Z8nJ8AAAAASUVORK5CYII=" alt="StrataScratch Stats" width="60%" />
+    <img src="./images/stratascratch_card.svg" alt="StrataScratch Stats" width="65%" />
   </a>
 </p>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none" role="img" aria-label="StrataScratch statistics">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .title  { font-size: 16px; font-weight: 700; fill: #88C0D0; }
+    .badge  { font-size: 11px; font-weight: 700; fill: #0b0f19; }
+    .big    { font-size: 34px; font-weight: 700; fill: #E5E7EB; }
+    .sub    { font-size: 11px; font-weight: 500; fill: #9CA3AF; }
+    .lbl    { font-size: 13px; font-weight: 700; }
+    .cnt    { font-size: 12px; font-weight: 500; fill: #9CA3AF; }
+    .ring-bg  { stroke: #1F2937; }
+    .ring-fg  { stroke: #88C0D0; stroke-linecap: round;
+                transform: rotate(-90deg); transform-origin: 112px 112px; }
+  </style>
+
+  <!-- card -->
+  <rect x="0.5" y="0.5" width="494" height="194" rx="14" fill="#0b0f19" stroke="#1F2937"/>
+
+  <!-- header -->
+  <text x="24" y="34" class="title">StrataScratch</text>
+  <rect x="392" y="19" width="80" height="22" rx="11" fill="#88C0D0"/>
+  <text x="432" y="34" text-anchor="middle" class="badge">TOP 1%</text>
+
+  <!-- progress ring -->
+  <circle cx="112" cy="112" r="46" fill="none" stroke-width="9" class="ring-bg"/>
+  <circle cx="112" cy="112" r="46" fill="none" stroke-width="9" class="ring-fg"
+          stroke-dasharray="273.5 289.03"/>
+  <text x="112" y="112" text-anchor="middle" class="big">635</text>
+  <text x="112" y="130" text-anchor="middle" class="sub">/ 671 solved</text>
+
+  <!-- difficulty rows -->
+  <!-- Easy -->
+  <text x="248" y="66" class="lbl" fill="#A9D6E5">Easy</text>
+  <text x="471" y="66" text-anchor="end" class="cnt">253 / 253</text>
+  <rect x="248" y="74" width="223" height="7" rx="3.5" fill="#1F2937"/>
+  <rect x="248" y="74" width="223" height="7" rx="3.5" fill="#A9D6E5"/>
+
+  <!-- Medium -->
+  <text x="248" y="108" class="lbl" fill="#88C0D0">Medium</text>
+  <text x="471" y="108" text-anchor="end" class="cnt">294 / 302</text>
+  <rect x="248" y="116" width="223" height="7" rx="3.5" fill="#1F2937"/>
+  <rect x="248" y="116" width="216.4" height="7" rx="3.5" fill="#88C0D0"/>
+
+  <!-- Hard -->
+  <text x="248" y="150" class="lbl" fill="#5E9CAD">Hard</text>
+  <text x="471" y="150" text-anchor="end" class="cnt">88 / 116</text>
+  <rect x="248" y="158" width="223" height="7" rx="3.5" fill="#1F2937"/>
+  <rect x="248" y="158" width="169.5" height="7" rx="3.5" fill="#5E9CAD"/>
+</svg>
