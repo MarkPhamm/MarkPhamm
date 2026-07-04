@@ -268,7 +268,7 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
 
 <p align="center">
   <a href="https://leetcode.com/u/markphammm/">
-    <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap" alt="LeetCode Stats" width="65%" />
+    <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap&v=2" alt="LeetCode Stats" width="65%" />
   </a>
 </p>
 
