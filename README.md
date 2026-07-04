@@ -225,7 +225,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=tokyonight&hide_border=false&background=0B0F19&border=1F2937&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=E5E7EB&dates=9CA3AF&stroke=1F2937" width="98%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=tokyonight&hide_border=false&background=0B0F19&border=1F2937&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=E5E7EB&dates=9CA3AF&stroke=1F2937" width="60%" alt="GitHub Streak Stats" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
@@ -259,9 +259,11 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
 
 ### Coding Challenges
 
-<a href="https://leetcode.com/u/markphammm/">
-  <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap" alt="LeetCode Stats" width="100%" />
-</a>
+<p align="center">
+  <a href="https://leetcode.com/u/markphammm/">
+    <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap" alt="LeetCode Stats" width="60%" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://platform.stratascratch.com/user/SmartPersonality1862">
