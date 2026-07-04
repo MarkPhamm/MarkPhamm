@@ -55,7 +55,7 @@
       <td align="center" valign="top" width="11%">
         <sub>May 2022 - Sep 2022</sub><br /><br />
         <img src="https://www.google.com/s2/favicons?sz=32&domain=napas.com.vn" width="24" height="24" /><br /><br />
-        <a href="https://en.napas.com.vn/"><b>NAPAS Vietnam</b></a><br />
+        <a href="https://en.napas.com.vn/"><b>NAPAS</b></a><br />
         <sub>Data Analyst Intern</sub>
       </td>
       <td align="center" valign="middle" width="1%">➔</td>
@@ -83,7 +83,7 @@
       <td align="center" valign="top" width="11%">
         <sub>May 2025 - </sub><img src="https://img.shields.io/badge/Present-2ea44f?style=flat-square" height="14" valign="middle" /><br /><br />
         <img src="https://www.google.com/s2/favicons?sz=32&domain=insurify.com" width="24" height="24" /><br /><br />
-        <a href="https://insurify.com/"><b>Insurify, Inc.</b></a><br />
+        <a href="https://insurify.com/"><b>Insurify</b></a><br />
         <sub>Analytics Engineer</sub>
       </td>
       <td align="center" valign="middle" width="1%">➔</td>
@@ -91,7 +91,7 @@
         <sub>May 2025 - </sub><img src="https://img.shields.io/badge/Present-2ea44f?style=flat-square" height="14" valign="middle" /><br /><br />
         <img src="https://www.google.com/s2/favicons?sz=32&domain=facebook.com" width="24" height="24" /><br /><br />
         <a href="https://xomdata.com/"><b>Xóm Data</b></a><br />
-        <sub>Admin & Builder</sub>
+        <sub>Builder</sub>
       </td>
     </tr>
   </table>
