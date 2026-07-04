@@ -216,9 +216,9 @@
       </td>
       <!-- Right: GitHub Stats on top, Top Languages below -->
       <td width="42%" align="center" style="border: none; padding: 10px;" valign="middle">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=markphamm&theme=tokyonight&show_icons=true&include_all_commits=true&bg_color=0b0f19&title_color=06B6D4&text_color=e5e7eb&icon_color=8B5CF6&border_color=1f2937&hide_border=false" width="380" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=markphamm&theme=tokyonight&show_icons=true&include_all_commits=true&bg_color=0b0f19&title_color=88C0D0&text_color=e5e7eb&icon_color=88C0D0&border_color=1f2937&hide_border=false" width="380" alt="GitHub Stats" />
         <br /><br />
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=markphamm&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=06B6D4&text_color=e5e7eb&icon_color=8B5CF6&border_color=1f2937&hide_border=false" width="380" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=markphamm&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=88C0D0&text_color=e5e7eb&icon_color=88C0D0&border_color=1f2937&hide_border=false" width="380" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -241,7 +241,7 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
 
 ### Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=markphamm&hide_border=true&bg_color=0b0f19&color=06B6D4&line=06B6D4&point=ffffff&title_color=06B6D4&area=true&area_color=8B5CF6" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=markphamm&hide_border=true&bg_color=0b0f19&color=88C0D0&line=88C0D0&point=ffffff&title_color=88C0D0&area=true&area_color=88C0D0" alt="Activity Graph" width="100%" />
 
 <p align="center">
   <img src="./images/wakatime_activity.svg" alt="WakaTime Activity" />
@@ -254,11 +254,11 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
     <tr style="border: none;">
       <!-- Left: Streak stats -->
       <td width="42%" align="center" style="border: none; padding: 10px;" valign="middle">
-        <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=tokyonight&hide_border=false&background=0B0F19&border=1F2937&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=E5E7EB&dates=9CA3AF&stroke=1F2937" width="100%" alt="GitHub Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=tokyonight&hide_border=false&background=0B0F19&border=1F2937&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0&sideLabels=E5E7EB&dates=9CA3AF&stroke=1F2937" width="100%" alt="GitHub Streak Stats" />
       </td>
       <!-- Right: Profile details / contribution graph -->
       <td width="58%" align="center" style="border: none; padding: 10px;" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=2077&v=3" alt="GitHub Profile Details" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=nord_dark&v=4" alt="GitHub Profile Details" width="100%" />
       </td>
     </tr>
   </table>
