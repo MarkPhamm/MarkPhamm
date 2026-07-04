@@ -209,7 +209,7 @@
 
 <div align="center">
   <img height="160" src="https://streak-stats.demolab.com/?user=Markphamm&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Markphamm&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=Markphamm&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&cache_seconds=1800" />
 </div>
 
 ### Things I'm working on this week
