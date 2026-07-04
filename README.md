@@ -258,7 +258,7 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
       </td>
       <!-- Right: Profile details / contribution graph -->
       <td width="58%" align="center" style="border: none; padding: 10px;" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=nord_dark&v=2" alt="GitHub Profile Details" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=2077&v=3" alt="GitHub Profile Details" width="100%" />
       </td>
     </tr>
   </table>
