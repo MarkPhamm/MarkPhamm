@@ -224,10 +224,6 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=tokyonight&hide_border=false&background=0B0F19&border=1F2937&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=E5E7EB&dates=9CA3AF&stroke=1F2937" width="65%" alt="GitHub Streak Stats" />
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
 ### Things I'm working on this week
@@ -253,8 +249,19 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
 
 ### Contributions
 
-<div align="center" width="100%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=nord_dark&v=2" alt="GitHub Profile Details" width="100%" />
+<div align="center">
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <!-- Left: Streak stats -->
+      <td width="42%" align="center" style="border: none; padding: 10px;" valign="middle">
+        <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=tokyonight&hide_border=false&background=0B0F19&border=1F2937&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=E5E7EB&dates=9CA3AF&stroke=1F2937" width="100%" alt="GitHub Streak Stats" />
+      </td>
+      <!-- Right: Profile details / contribution graph -->
+      <td width="58%" align="center" style="border: none; padding: 10px;" valign="middle">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=nord_dark&v=2" alt="GitHub Profile Details" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### Coding Challenges
