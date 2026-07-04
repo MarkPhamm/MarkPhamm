@@ -207,34 +207,6 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=Markphamm&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=Markphamm&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&cache_seconds=1800" />
-</div>
-
-### Things I'm working on this week
-<!--START_SECTION:waka-->
-
-```txt
-SQL           5 hrs 58 mins         ████████▓░░░░░░░░░░░░░░░░   35.33 %
-Markdown      3 hrs 36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
-JSON          1 hr 25 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-YAML          1 hr 18 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-Other         1 hr 7 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-```
-
-<!--END_SECTION:waka-->
-
-### Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=markphamm&theme=nord&hide_border=true&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff" alt="Activity Graph" width="100%" />
-
-<p align="center">
-  <img src="./images/wakatime_activity.svg" alt="WakaTime Activity" />
-</p>
-
-### Contributions
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
 <div align="center">
@@ -254,7 +226,34 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
   </table>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=tokyonight&hide_border=false&background=0B0F19&border=1F2937&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=E5E7EB&dates=9CA3AF&stroke=1F2937" width="98%" alt="GitHub Streak Stats" />
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
+
+### Things I'm working on this week
+<!--START_SECTION:waka-->
+
+```txt
+SQL           5 hrs 58 mins         ████████▓░░░░░░░░░░░░░░░░   35.33 %
+Markdown      3 hrs 36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
+JSON          1 hr 25 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+YAML          1 hr 18 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Other         1 hr 7 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+```
+
+<!--END_SECTION:waka-->
+
+### Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=markphamm&hide_border=true&bg_color=0b0f19&color=06B6D4&line=06B6D4&point=ffffff&title_color=06B6D4&area=true&area_color=8B5CF6" alt="Activity Graph" width="100%" />
+
+<p align="center">
+  <img src="./images/wakatime_activity.svg" alt="WakaTime Activity" />
+</p>
+
+### Contributions
 
 <div align="center" width="100%">
   <picture>
@@ -265,7 +264,7 @@ Other         1 hr 7 mins           █▓░░░░░░░░░░░░�
 </div>
 
 <div align="center" width="100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=github_dark" alt="GitHub Profile Details" width="100%" />
 </div>
 
 ### Coding Challenges
