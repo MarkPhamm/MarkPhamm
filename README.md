@@ -101,7 +101,7 @@
 
 ## 🛠️ Techstack &amp; Ecosystem <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img width="1847" height="1083" alt="image" src="https://github.com/user-attachments/assets/17be1e60-170c-434d-b3f2-7b325126a44c" />
+<img width="1332" height="787" alt="image" src="https://github.com/user-attachments/assets/8bc0e5bd-e57f-44a7-8545-19c54e189c32" />
 
 <br/>
 
