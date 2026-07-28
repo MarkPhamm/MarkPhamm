@@ -49,35 +49,35 @@
         <sub>May 2022 - Sep 2022</sub><br /><br />
         <img src="https://www.google.com/s2/favicons?sz=32&domain=kpim.vn" width="24" height="24" /><br /><br />
         <a href="https://kpim.vn/"><b>KPIM</b></a><br />
-        <sub>Data Science Intern</sub>
+        <sub>Data Science</sub>
       </td>
       <td align="center" valign="middle" width="1%">➔</td>
       <td align="center" valign="top" width="11%">
         <sub>May 2022 - Sep 2022</sub><br /><br />
         <img src="https://www.google.com/s2/favicons?sz=32&domain=napas.com.vn" width="24" height="24" /><br /><br />
         <a href="https://en.napas.com.vn/"><b>NAPAS</b></a><br />
-        <sub>Data Analyst Intern</sub>
+        <sub>Data Analyst</sub>
       </td>
       <td align="center" valign="middle" width="1%">➔</td>
       <td align="center" valign="top" width="11%">
         <sub>Jan 2023 - May 2023</sub><br /><br />
         <img src="https://www.google.com/s2/favicons?sz=32&domain=corning.com" width="24" height="24" /><br /><br />
         <a href="https://www.corning.com/"><b>Corning Inc.</b></a><br />
-        <sub>Data Analyst Intern</sub>
+        <sub>Data Analyst</sub>
       </td>
       <td align="center" valign="middle" width="1%">➔</td>
       <td align="center" valign="top" width="11%">
         <sub>Jan 2024 - May 2024</sub><br /><br />
         <img src="https://www.google.com/s2/favicons?sz=32&domain=techsmith.com" width="24" height="24" /><br /><br />
         <a href="https://www.techsmith.com/"><b>TechSmith Corp</b></a><br />
-        <sub>BI Engineer Intern</sub>
+        <sub>BI Engineer</sub>
       </td>
       <td align="center" valign="middle" width="1%">➔</td>
       <td align="center" valign="top" width="11%">
         <sub>May 2024 - Aug 2024</sub><br /><br />
         <img src="https://www.google.com/s2/favicons?sz=32&domain=lazard.com" width="24" height="24" /><br /><br />
         <a href="https://www.lazard.com/"><b>Lazard</b></a><br />
-        <sub>Data Engineer Intern</sub>
+        <sub>Data Engineer</sub>
       </td>
       <td align="center" valign="middle" width="1%">➔</td>
       <td align="center" valign="top" width="11%">
