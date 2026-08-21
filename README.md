@@ -230,9 +230,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     0 secs                ███████████████▒░░░░░░░░░   61.03 %
-XML          0 secs                █████░░░░░░░░░░░░░░░░░░░░   19.64 %
-Git Config   0 secs                ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
