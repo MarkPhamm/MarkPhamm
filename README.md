@@ -81,7 +81,7 @@
       </td>
       <td align="center" valign="middle" width="1%">➔</td>
       <td align="center" valign="top" width="11%">
-        <sub>May 2025 - </sub><img src="https://img.shields.io/badge/Present-2ea44f?style=flat-square" height="14" valign="middle" /><br /><br />
+        <sub>May 2025 - Aug 2026</sub><br /><br />
         <img src="https://www.google.com/s2/favicons?sz=32&domain=insurify.com" width="24" height="24" /><br /><br />
         <a href="https://insurify.com/"><b>Insurify</b></a><br />
         <sub>Analytics Engineer</sub>
@@ -92,6 +92,13 @@
         <img src="https://www.google.com/s2/favicons?sz=32&domain=facebook.com" width="24" height="24" /><br /><br />
         <a href="https://xomdata.com/"><b>Xóm Data</b></a><br />
         <sub>Builder</sub>
+      </td>
+      <td align="center" valign="middle" width="1%">➔</td>
+      <td align="center" valign="top" width="11%">
+        <sub>Aug 2026 - </sub><img src="https://img.shields.io/badge/Present-2ea44f?style=flat-square" height="14" valign="middle" /><br /><br />
+        <img src="https://www.google.com/s2/favicons?sz=32&domain=infinitelambda.com" width="24" height="24" /><br /><br />
+        <a href="https://infinitelambda.com/"><b>Infinite Lambda</b></a><br />
+        <sub>Senior Analytics Engineer</sub>
       </td>
     </tr>
   </table>
@@ -114,6 +121,7 @@
         <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake"/>
         <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" alt="Redshift"/>
         <img src="https://img.shields.io/badge/BigQuery-6699FF?style=flat-square&logo=google-bigquery&logoColor=white" alt="BigQuery"/>
+        <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
       </td>
     </tr>
     <tr>
@@ -140,6 +148,7 @@
         <img src="https://img.shields.io/badge/Alteryx-0078D4?style=flat-square&logo=alteryx&logoColor=white" alt="Alteryx"/>
         <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
         <img src="https://img.shields.io/badge/Kinesis-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Kinesis"/>
+        <img src="https://img.shields.io/badge/Google_Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Pub/Sub"/>
         <img src="https://img.shields.io/badge/CDC-4B8BBE?style=flat-square&logo=debezium&logoColor=white" alt="CDC"/>
         <img src="https://img.shields.io/badge/dbt_Core-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt Core"/>
       </td>
@@ -176,6 +185,8 @@
         <img src="https://img.shields.io/badge/Visivo-000000?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml&logoColor=white" alt="Visivo"/>
         <img src="https://img.shields.io/badge/Lightdash-000000?style=flat-square&logo=lightdash&logoColor=white" alt="Lightdash"/>
         <img src="https://img.shields.io/badge/Superset-0073B7?style=flat-square&logo=apache-superset&logoColor=white" alt="Superset"/>
+        <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" alt="Metabase"/>
+        <img src="https://img.shields.io/badge/Omni-EC1A58?style=flat-square" alt="Omni"/>
         <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog"/>
       </td>
     </tr>
@@ -188,6 +199,11 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+        <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="Amazon EC2"/>
+        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
+        <img src="https://img.shields.io/badge/Step_Functions-CD2264?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Step Functions"/>
+        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
         <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
       </td>
     </tr>
