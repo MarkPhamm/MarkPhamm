@@ -108,10 +108,6 @@
 
 ## 🛠️ Techstack &amp; Ecosystem <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img width="1332" height="787" alt="image" src="https://github.com/user-attachments/assets/8bc0e5bd-e57f-44a7-8545-19c54e189c32" />
-
-<br/>
-
 <div align="center">
   <h3>🛠️ Tech Stack &amp; Reference Logos</h3>
   <table width="100%">
