@@ -47,19 +47,54 @@
 
 ## 💼 Experience <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Now**
-
-<a href="https://infinitelambda.com/"><b>Infinite Lambda</b></a> · Senior Analytics Engineer · <sub>Aug 2026 –</sub><br>
-<a href="https://xomdata.com/"><b>Xóm Data</b></a> · Builder · <sub>May 2025 –</sub>
-
-**Before**
-
-<a href="https://insurify.com/"><b>Insurify</b></a> · Analytics Engineer · <sub>May 2025 – Aug 2026</sub><br>
-<a href="https://www.lazard.com/"><b>Lazard</b></a> · Data Engineer · <sub>May 2024 – Aug 2024</sub><br>
-<a href="https://www.techsmith.com/"><b>TechSmith Corp</b></a> · BI Engineer · <sub>Jan 2024 – May 2024</sub><br>
-<a href="https://www.corning.com/"><b>Corning Inc.</b></a> · Data Analyst · <sub>Jan 2023 – May 2023</sub><br>
-<a href="https://en.napas.com.vn/"><b>NAPAS</b></a> · Data Analyst · <sub>May 2022 – Sep 2022</sub><br>
-<a href="https://kpim.vn/"><b>KPIM</b></a> · Data Science · <sub>May 2022 – Sep 2022</sub>
+<table cellpadding="8">
+  <tr>
+    <td colspan="3"><b>Now</b></td>
+  </tr>
+  <tr>
+    <td width="200">Aug 2026 –</td>
+    <td width="220"><a href="https://infinitelambda.com/"><b>Infinite Lambda</b></a></td>
+    <td>Senior Analytics Engineer</td>
+  </tr>
+  <tr>
+    <td>May 2025 –</td>
+    <td><a href="https://xomdata.com/"><b>Xóm Data</b></a></td>
+    <td>Builder</td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Before</b></td>
+  </tr>
+  <tr>
+    <td>May 2025 – Aug 2026</td>
+    <td><a href="https://insurify.com/"><b>Insurify</b></a></td>
+    <td>Analytics Engineer</td>
+  </tr>
+  <tr>
+    <td>May 2024 – Aug 2024</td>
+    <td><a href="https://www.lazard.com/"><b>Lazard</b></a></td>
+    <td>Data Engineer</td>
+  </tr>
+  <tr>
+    <td>Jan 2024 – May 2024</td>
+    <td><a href="https://www.techsmith.com/"><b>TechSmith Corp</b></a></td>
+    <td>BI Engineer</td>
+  </tr>
+  <tr>
+    <td>Jan 2023 – May 2023</td>
+    <td><a href="https://www.corning.com/"><b>Corning Inc.</b></a></td>
+    <td>Data Analyst</td>
+  </tr>
+  <tr>
+    <td>May 2022 – Sep 2022</td>
+    <td><a href="https://en.napas.com.vn/"><b>NAPAS</b></a></td>
+    <td>Data Analyst</td>
+  </tr>
+  <tr>
+    <td>May 2022 – Sep 2022</td>
+    <td><a href="https://kpim.vn/"><b>KPIM</b></a></td>
+    <td>Data Science</td>
+  </tr>
+</table>
 
 ---
 
