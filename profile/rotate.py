@@ -1,9 +1,9 @@
-"""Swap the profile hero by the day of the week in Hanoi.
+"""Swap the profile hero every hour, Hanoi time.
 
-Monday and Wednesday show the rice terraces, Tuesday and Thursday the Old
-Quarter, Friday the warehouse, and the weekend shows the profile on its own.
-Each concept writes its hero to <concept>/section.md; this puts today's one
-between the profile markers in README.md.
+The rice terraces, the Old Quarter, and the page on its own take turns, one
+hour each, then the cycle starts again. Each concept writes its hero to
+<concept>/section.md; this puts the current hour's one between the profile
+markers in README.md.
 """
 
 from __future__ import annotations
@@ -19,25 +19,17 @@ HANOI = ZoneInfo("Asia/Ho_Chi_Minh")
 START = "<!--START_SECTION:profile-->"
 END = "<!--END_SECTION:profile-->"
 
-# weekday(): Monday is 0. Saturday and Sunday are absent on purpose.
-SCHEDULE = {
-    0: "terrace",
-    1: "street",
-    2: "terrace",
-    3: "street",
-    4: "warehouse",
-}
+# One turn each, in this order, repeating through the day. None is the page on its own.
+CYCLE = ("terrace", "street", None)
 
 NAMES = {
     "terrace": "the rice terraces",
     "street": "the Old Quarter",
-    "warehouse": "the warehouse",
 }
 
 NOTE = (
-    "The profile changes through the week: the rice terraces on Monday and Wednesday, "
-    "the Old Quarter on Tuesday and Thursday, the warehouse on Friday, "
-    "and the page on its own over the weekend."
+    "The profile changes every hour: the rice terraces, then the Old Quarter, "
+    "then the page on its own."
 )
 
 
@@ -51,7 +43,7 @@ def moment_in(at: str | None) -> datetime:
 
 
 def active(moment: datetime) -> str | None:
-    return SCHEDULE.get(moment.astimezone(HANOI).weekday())
+    return CYCLE[moment.astimezone(HANOI).hour % len(CYCLE)]
 
 
 def hero(name: str | None) -> str:
@@ -63,7 +55,7 @@ def hero(name: str | None) -> str:
     body = section.read_text(encoding="utf-8").strip()
     if not body:
         return ""
-    return f"<sub>{NOTE} Today shows {NAMES[name]}.</sub>\n\n{body}"
+    return f"<sub>{NOTE} This hour shows {NAMES[name]}.</sub>\n\n{body}"
 
 
 def apply(moment: datetime | None = None) -> bool:

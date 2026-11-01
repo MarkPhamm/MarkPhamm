@@ -1,8 +1,0 @@
-version: 2
-
-models:
-  - name: int_daily_activity
-    description: A 365 day date spine with contributions and WakaTime coding seconds. coding_seconds is null before WakaTime has daily data.
-
-  - name: int_repo_health
-    description: Repositories with this year's commits, days since the last push, and a status (active within 120 days, maintained within 730, dormant after that).

@@ -2,7 +2,7 @@ name: Profile rotation
 
 on:
   schedule:
-    - cron: "5 17 * * *" # 00:05 in Hanoi, just after midnight
+    - cron: "5 * * * *" # five minutes past every hour
   workflow_dispatch:
 
 permissions:
@@ -28,7 +28,7 @@ jobs:
             python profile/rotate.py
             git add README.md
             if git diff --cached --quiet; then
-              echo "The profile is already showing the right day; nothing to commit."
+              echo "The profile is already showing the right hour; nothing to commit."
               exit 0
             fi
             git commit --quiet --message "chore: rotate profile"
