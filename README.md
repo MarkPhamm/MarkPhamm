@@ -47,67 +47,56 @@
 
 ## 💼 Experience <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" valign="top" width="11%">
-        <sub>May 2022 - Sep 2022</sub><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=kpim.vn" width="24" height="24" /><br /><br />
-        <a href="https://kpim.vn/"><b>KPIM</b></a><br />
-        <sub>Data Science</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>May 2022 - Sep 2022</sub><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=napas.com.vn" width="24" height="24" /><br /><br />
-        <a href="https://en.napas.com.vn/"><b>NAPAS</b></a><br />
-        <sub>Data Analyst</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>Jan 2023 - May 2023</sub><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=corning.com" width="24" height="24" /><br /><br />
-        <a href="https://www.corning.com/"><b>Corning Inc.</b></a><br />
-        <sub>Data Analyst</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>Jan 2024 - May 2024</sub><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=techsmith.com" width="24" height="24" /><br /><br />
-        <a href="https://www.techsmith.com/"><b>TechSmith Corp</b></a><br />
-        <sub>BI Engineer</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>May 2024 - Aug 2024</sub><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=lazard.com" width="24" height="24" /><br /><br />
-        <a href="https://www.lazard.com/"><b>Lazard</b></a><br />
-        <sub>Data Engineer</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>May 2025 - Aug 2026</sub><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=insurify.com" width="24" height="24" /><br /><br />
-        <a href="https://insurify.com/"><b>Insurify</b></a><br />
-        <sub>Analytics Engineer</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>May 2025 - </sub><img src="https://img.shields.io/badge/Present-2ea44f?style=flat-square" height="14" valign="middle" /><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=facebook.com" width="24" height="24" /><br /><br />
-        <a href="https://xomdata.com/"><b>Xóm Data</b></a><br />
-        <sub>Builder</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>Aug 2026 - </sub><img src="https://img.shields.io/badge/Present-2ea44f?style=flat-square" height="14" valign="middle" /><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=infinitelambda.com" width="24" height="24" /><br /><br />
-        <a href="https://infinitelambda.com/"><b>Infinite Lambda</b></a><br />
-        <sub>Senior Analytics Engineer</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td width="24%" valign="middle"><sub>May 2022 - Sep 2022</sub></td>
+    <td width="36" valign="middle"><img src="https://www.google.com/s2/favicons?sz=32&domain=kpim.vn" width="20" height="20" /></td>
+    <td width="32%" valign="middle"><a href="https://kpim.vn/"><b>KPIM</b></a></td>
+    <td valign="middle"><sub>Data Science</sub></td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub>May 2022 - Sep 2022</sub></td>
+    <td valign="middle"><img src="https://www.google.com/s2/favicons?sz=32&domain=napas.com.vn" width="20" height="20" /></td>
+    <td valign="middle"><a href="https://en.napas.com.vn/"><b>NAPAS</b></a></td>
+    <td valign="middle"><sub>Data Analyst</sub></td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub>Jan 2023 - May 2023</sub></td>
+    <td valign="middle"><img src="https://www.google.com/s2/favicons?sz=32&domain=corning.com" width="20" height="20" /></td>
+    <td valign="middle"><a href="https://www.corning.com/"><b>Corning Inc.</b></a></td>
+    <td valign="middle"><sub>Data Analyst</sub></td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub>Jan 2024 - May 2024</sub></td>
+    <td valign="middle"><img src="https://www.google.com/s2/favicons?sz=32&domain=techsmith.com" width="20" height="20" /></td>
+    <td valign="middle"><a href="https://www.techsmith.com/"><b>TechSmith Corp</b></a></td>
+    <td valign="middle"><sub>BI Engineer</sub></td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub>May 2024 - Aug 2024</sub></td>
+    <td valign="middle"><img src="https://www.google.com/s2/favicons?sz=32&domain=lazard.com" width="20" height="20" /></td>
+    <td valign="middle"><a href="https://www.lazard.com/"><b>Lazard</b></a></td>
+    <td valign="middle"><sub>Data Engineer</sub></td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub>May 2025 - Aug 2026</sub></td>
+    <td valign="middle"><img src="https://www.google.com/s2/favicons?sz=32&domain=insurify.com" width="20" height="20" /></td>
+    <td valign="middle"><a href="https://insurify.com/"><b>Insurify</b></a></td>
+    <td valign="middle"><sub>Analytics Engineer</sub></td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub>May 2025 -</sub> <img src="https://img.shields.io/badge/Present-2C3A52?style=flat-square" height="14" valign="middle" /></td>
+    <td valign="middle"><img src="https://www.google.com/s2/favicons?sz=32&domain=facebook.com" width="20" height="20" /></td>
+    <td valign="middle"><a href="https://xomdata.com/"><b>Xóm Data</b></a></td>
+    <td valign="middle"><sub>Builder</sub></td>
+  </tr>
+  <tr>
+    <td valign="middle"><sub>Aug 2026 -</sub> <img src="https://img.shields.io/badge/Present-2C3A52?style=flat-square" height="14" valign="middle" /></td>
+    <td valign="middle"><img src="https://www.google.com/s2/favicons?sz=32&domain=infinitelambda.com" width="20" height="20" /></td>
+    <td valign="middle"><a href="https://infinitelambda.com/"><b>Infinite Lambda</b></a></td>
+    <td valign="middle"><sub>Senior Analytics Engineer</sub></td>
+  </tr>
+</table>
 
 ---
 
