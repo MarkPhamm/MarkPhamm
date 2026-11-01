@@ -157,7 +157,9 @@ def fetch_github(now: datetime) -> dict:
             "commits": item["contributions"]["totalCount"],
         }
         for item in user["thisYear"]["commitContributionsByRepository"]
-        if not item["repository"]["isPrivate"] and item["contributions"]["totalCount"] > 0
+        if not item["repository"]["isPrivate"]
+        and item["repository"]["owner"]["login"].lower() == USER.lower()
+        and item["contributions"]["totalCount"] > 0
     ]
     repos.sort(key=lambda repo: (-repo["commits"], repo["name"].lower()))
 
