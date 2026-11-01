@@ -49,50 +49,64 @@
 
 <table cellpadding="8">
   <tr>
-    <td colspan="3"><b>Now</b></td>
+    <td colspan="4"><b>Now</b></td>
   </tr>
   <tr>
     <td width="200">Aug 2026 –</td>
     <td width="220"><a href="https://infinitelambda.com/"><b>Infinite Lambda</b></a></td>
     <td>Senior Analytics Engineer</td>
+    <td>Global data and AI consultancy</td>
+  </tr>
+  <tr>
+    <td>Oct 2026 –</td>
+    <td><b>Stealth Startup</b></td>
+    <td>Founding Analytics Engineer</td>
+    <td>AI learning and assessment platform</td>
   </tr>
   <tr>
     <td>May 2025 –</td>
     <td><a href="https://xomdata.com/"><b>Xóm Data</b></a></td>
     <td>Builder</td>
+    <td>Vietnamese data learning platform</td>
   </tr>
   <tr>
-    <td colspan="3"><b>Before</b></td>
+    <td colspan="4"><b>Before</b></td>
   </tr>
   <tr>
     <td>May 2025 – Aug 2026</td>
     <td><a href="https://insurify.com/"><b>Insurify</b></a></td>
     <td>Analytics Engineer</td>
+    <td>Insurance aggregator</td>
   </tr>
   <tr>
     <td>May 2024 – Aug 2024</td>
     <td><a href="https://www.lazard.com/"><b>Lazard</b></a></td>
     <td>Data Engineer</td>
+    <td>Investment bank and asset manager</td>
   </tr>
   <tr>
     <td>Jan 2024 – May 2024</td>
     <td><a href="https://www.techsmith.com/"><b>TechSmith Corp</b></a></td>
     <td>BI Engineer</td>
+    <td>Visual communication software</td>
   </tr>
   <tr>
     <td>Jan 2023 – May 2023</td>
     <td><a href="https://www.corning.com/"><b>Corning Inc.</b></a></td>
     <td>Data Analyst</td>
+    <td>Glass and materials science</td>
   </tr>
   <tr>
     <td>May 2022 – Sep 2022</td>
     <td><a href="https://en.napas.com.vn/"><b>NAPAS</b></a></td>
     <td>Data Analyst</td>
+    <td>National payment network</td>
   </tr>
   <tr>
     <td>May 2022 – Sep 2022</td>
     <td><a href="https://kpim.vn/"><b>KPIM</b></a></td>
     <td>Data Science</td>
+    <td>Business intelligence consultancy</td>
   </tr>
 </table>
 
