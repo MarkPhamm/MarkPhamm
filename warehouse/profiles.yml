@@ -1,0 +1,7 @@
+mark_warehouse:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: mark.duckdb
+      threads: 4

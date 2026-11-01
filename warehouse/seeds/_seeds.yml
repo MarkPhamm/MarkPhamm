@@ -1,0 +1,5 @@
+version: 2
+
+seeds:
+  - name: career_roles
+    description: Every role I have held, maintained by hand. An empty end_date means I am still there.

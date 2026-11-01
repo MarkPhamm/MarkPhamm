@@ -1,0 +1,80 @@
+version: 2
+
+models:
+  - name: fct_contributions
+    description: One row per day for the last 365 days.
+    columns:
+      - name: day
+        description: Calendar day.
+        data_tests:
+          - unique
+          - not_null
+      - name: contributions
+        description: GitHub contributions that day.
+        data_tests:
+          - non_negative
+      - name: coding_hours
+        description: WakaTime coding hours that day, null when WakaTime has no daily data.
+      - name: is_weekend
+        description: True on Saturdays and Sundays.
+
+  - name: fct_coding_week
+    description: Coding time by language over the last 7 days.
+    columns:
+      - name: language
+        description: WakaTime language name. Other collects languages the README fallback does not list.
+        data_tests:
+          - unique
+      - name: hours
+        description: Hours of coding in that language.
+      - name: share_pct
+        description: Share of the week's coding time, in percent.
+
+  - name: dim_repos
+    description: My public repositories, most starred first.
+    columns:
+      - name: repo_name
+        description: Repository name.
+        data_tests:
+          - unique
+          - not_null
+      - name: stars
+        description: Stargazer count.
+        data_tests:
+          - non_negative
+      - name: language
+        description: Primary language.
+      - name: commits_this_year
+        description: Commits since January 1.
+      - name: status
+        description: active, maintained or dormant, from days since the last push.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [active, maintained, dormant]
+      - name: pushed_at
+        description: Last push, UTC.
+      - name: url
+        description: Repository URL.
+
+  - name: dim_career
+    description: Where I have worked, from the career_roles seed.
+    columns:
+      - name: company
+        description: Employer or community.
+        data_tests:
+          - not_null
+      - name: role
+        description: My title there.
+      - name: start_date
+        description: First month in the role.
+        data_tests:
+          - not_null
+      - name: end_date
+        description: Last day in the role, null if current.
+      - name: is_current
+        description: True when end_date is null.
+      - name: months
+        description: Whole months in the role so far.
+      - name: url
+        description: Company website.
