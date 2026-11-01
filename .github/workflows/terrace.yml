@@ -102,13 +102,18 @@ jobs:
             fi
             sleep $((attempt * 4))
           done
+          echo "The farm was too busy to take this visit. Please open the issue again in a few minutes." > reply.md
           echo "Could not push the visit after 5 attempts."
           exit 1
 
       - name: Reply and close the issue
+        if: always()
         env:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: |
+          if [ ! -s reply.md ]; then
+            echo "The farm was too busy to take this visit. Please open the issue again in a few minutes." > reply.md
+          fi
           gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --body-file reply.md
           gh issue close "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY"
