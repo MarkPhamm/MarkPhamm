@@ -4,6 +4,16 @@ on:
   schedule:
     - cron: "5 * * * *" # five minutes past every hour
   workflow_dispatch:
+    inputs:
+      show:
+        description: Which profile to show. The hour takes back over at five minutes past.
+        type: choice
+        default: follow the hour
+        options:
+          - follow the hour
+          - rice terraces
+          - old quarter
+          - current page
 
 permissions:
   contents: write
@@ -21,6 +31,8 @@ jobs:
           python-version: "3.12"
 
       - name: Commit the profile if it changed
+        env:
+          PROFILE_SHOW: ${{ inputs.show }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
