@@ -21,3 +21,33 @@ jobs:
           filename: github-isometric-calendar.svg
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: output
+
+      - name: Tone the calendar to the night palette
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          path = Path("github-isometric-calendar.svg")
+          if not path.exists():
+              raise SystemExit("The calendar svg was not generated")
+          text = path.read_text(encoding="utf-8")
+          swaps = {
+              "#9be9a8": "#8AA0B8",
+              "#40c463": "#5C7A9A",
+              "#30a14e": "#3E5C7C",
+              "#216e39": "#2A415C",
+              "#ebedf0": "#1C2433",
+              "#0366d6": "#7A94B0",
+          }
+          for old, new in swaps.items():
+              text = text.replace(old, new).replace(old.upper(), new)
+          path.write_text(text, encoding="utf-8")
+          PY
+          git add github-isometric-calendar.svg
+          if git diff --cached --quiet; then
+            echo "The calendar is already toned."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "chore: tone the contribution calendar"
+          git push --quiet
