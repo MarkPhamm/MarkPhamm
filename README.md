@@ -8,7 +8,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
 </picture>
 
-## 🌐 Let's Connect <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🧠 About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<blockquote align="center">
+  <b><i>"Analytics isn't just my job - it's my obsession. Scroll down and see for yourself"</i></b>
+</blockquote>
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/minhbphamm/" target="_blank">
@@ -21,14 +29,6 @@
     <img src="https://img.shields.io/badge/StrataScratch-Profile-00A79D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9jhTEsAAAAK3RSTlMAAQIDBAUGBwgJCgsMDQ8QERITFBUWFxgZGhscHR4fICEiIyQmJygpKiuzg1ZnAAAAPUlEQVR42jXJRw6AIAwEwG9r2+9fZbCllPw/6wJWiRMwCqbk9zMBoIRlpBKR6FQAoipxkAdRHWuMtk5+egAtI7AmZpjE9AAAAAElFTkSuQmCC" alt="StrataScratch logo" />
   </a>
 </p>
-
----
-
-## 🧠 About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<blockquote align="center">
-  <b><i>"Analytics isn't just my job - it's my obsession. Scroll down and see for yourself"</i></b>
-</blockquote>
 
 <div align="center">
   
@@ -255,46 +255,6 @@ Python             1 hr 46 mins          █▓░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=markphamm&hide_border=true&bg_color=0b0f19&color=88C0D0&line=88C0D0&point=ffffff&title_color=88C0D0&area=true&area_color=88C0D0" alt="Activity Graph" width="100%" />
-
 <p align="center">
   <img src="./images/wakatime_activity.svg" alt="WakaTime Activity" />
 </p>
-
-### Contributions
-
-<div align="center">
-  <table border="0" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <!-- Left: Streak stats -->
-      <td width="42%" align="center" style="border: none; padding: 10px;" valign="middle">
-        <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=tokyonight&hide_border=false&background=0B0F19&border=1F2937&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0&sideLabels=E5E7EB&dates=9CA3AF&stroke=1F2937" width="100%" alt="GitHub Streak Stats" />
-      </td>
-      <!-- Right: Profile details / contribution graph -->
-      <td width="58%" align="center" style="border: none; padding: 10px;" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=nord_dark&v=4" alt="GitHub Profile Details" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Coding Challenges
-
-<div align="center">
-  <table border="0" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td width="50%" align="center" style="border: none; padding: 10px;" valign="top">
-        <a href="https://leetcode.com/u/markphammm/">
-          <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap&v=2" alt="LeetCode Stats" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center" style="border: none; padding: 10px;" valign="top">
-        <a href="https://platform.stratascratch.com/user/SmartPersonality1862">
-          <img src="./images/stratascratch_card.svg" alt="StrataScratch Stats" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
