@@ -47,67 +47,19 @@
 
 ## 💼 Experience <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" valign="top" width="11%">
-        <sub>May 2022 - Sep 2022</sub><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=kpim.vn" width="24" height="24" /><br /><br />
-        <a href="https://kpim.vn/"><b>KPIM</b></a><br />
-        <sub>Data Science</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>May 2022 - Sep 2022</sub><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=napas.com.vn" width="24" height="24" /><br /><br />
-        <a href="https://en.napas.com.vn/"><b>NAPAS</b></a><br />
-        <sub>Data Analyst</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>Jan 2023 - May 2023</sub><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=corning.com" width="24" height="24" /><br /><br />
-        <a href="https://www.corning.com/"><b>Corning Inc.</b></a><br />
-        <sub>Data Analyst</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>Jan 2024 - May 2024</sub><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=techsmith.com" width="24" height="24" /><br /><br />
-        <a href="https://www.techsmith.com/"><b>TechSmith Corp</b></a><br />
-        <sub>BI Engineer</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>May 2024 - Aug 2024</sub><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=lazard.com" width="24" height="24" /><br /><br />
-        <a href="https://www.lazard.com/"><b>Lazard</b></a><br />
-        <sub>Data Engineer</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>May 2025 - Aug 2026</sub><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=insurify.com" width="24" height="24" /><br /><br />
-        <a href="https://insurify.com/"><b>Insurify</b></a><br />
-        <sub>Analytics Engineer</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>May 2025 - </sub><img src="https://img.shields.io/badge/Present-36445C?style=flat-square" height="14" valign="middle" /><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=facebook.com" width="24" height="24" /><br /><br />
-        <a href="https://xomdata.com/"><b>Xóm Data</b></a><br />
-        <sub>Builder</sub>
-      </td>
-      <td align="center" valign="middle" width="1%">➔</td>
-      <td align="center" valign="top" width="11%">
-        <sub>Aug 2026 - </sub><img src="https://img.shields.io/badge/Present-3E4C66?style=flat-square" height="14" valign="middle" /><br /><br />
-        <img src="https://www.google.com/s2/favicons?sz=32&domain=infinitelambda.com" width="24" height="24" /><br /><br />
-        <a href="https://infinitelambda.com/"><b>Infinite Lambda</b></a><br />
-        <sub>Senior Analytics Engineer</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+**Now**
+
+<a href="https://infinitelambda.com/"><b>Infinite Lambda</b></a> · Senior Analytics Engineer · <sub>Aug 2026 –</sub><br>
+<a href="https://xomdata.com/"><b>Xóm Data</b></a> · Builder · <sub>May 2025 –</sub>
+
+**Before**
+
+<a href="https://insurify.com/"><b>Insurify</b></a> · Analytics Engineer · <sub>May 2025 – Aug 2026</sub><br>
+<a href="https://www.lazard.com/"><b>Lazard</b></a> · Data Engineer · <sub>May 2024 – Aug 2024</sub><br>
+<a href="https://www.techsmith.com/"><b>TechSmith Corp</b></a> · BI Engineer · <sub>Jan 2024 – May 2024</sub><br>
+<a href="https://www.corning.com/"><b>Corning Inc.</b></a> · Data Analyst · <sub>Jan 2023 – May 2023</sub><br>
+<a href="https://en.napas.com.vn/"><b>NAPAS</b></a> · Data Analyst · <sub>May 2022 – Sep 2022</sub><br>
+<a href="https://kpim.vn/"><b>KPIM</b></a> · Data Science · <sub>May 2022 – Sep 2022</sub>
 
 ---
 
