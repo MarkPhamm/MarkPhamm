@@ -1,0 +1,9 @@
+company,role,start_date,end_date,is_current,months,url
+KPIM,Data Science,2022-05-01,2022-09-30,false,5,https://kpim.vn/
+NAPAS,Data Analyst,2022-05-01,2022-09-30,false,5,https://en.napas.com.vn/
+Corning Inc.,Data Analyst,2023-01-01,2023-05-31,false,5,https://www.corning.com/
+TechSmith Corp,BI Engineer,2024-01-01,2024-05-31,false,5,https://www.techsmith.com/
+Lazard,Data Engineer,2024-05-01,2024-08-31,false,4,https://www.lazard.com/
+Insurify,Analytics Engineer,2025-05-01,2026-08-31,false,16,https://insurify.com/
+Xóm Data,Builder,2025-05-01,,true,18,https://xomdata.com/
+Infinite Lambda,Senior Analytics Engineer,2026-08-01,,true,3,https://infinitelambda.com/

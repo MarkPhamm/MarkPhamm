@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: stg_github__commits
+    description: Daily contribution counts from the GitHub contribution calendar.
+
+  - name: stg_github__repos
+    description: My public, non-fork repositories with stars and primary language.
+
+  - name: stg_github__repo_commits
+    description: Commits per public repository this calendar year.
+
+  - name: stg_wakatime__sessions
+    description: Coding seconds per day and language. day is null for the README fallback, which only knows weekly totals.
+
+  - name: stg_career__roles
+    description: The career_roles seed, typed.
