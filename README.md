@@ -52,16 +52,16 @@
     <td colspan="4"><b>Now</b></td>
   </tr>
   <tr>
-    <td width="200">Oct 2026 –</td>
-    <td width="220"><b>Stealth Startup</b></td>
-    <td>Founding Analytics Engineer</td>
-    <td>AI learning and assessment platform</td>
-  </tr>
-  <tr>
-    <td>Aug 2026 –</td>
-    <td><a href="https://infinitelambda.com/"><b>Infinite Lambda</b></a></td>
+    <td width="200">Aug 2026 –</td>
+    <td width="220"><a href="https://infinitelambda.com/"><b>Infinite Lambda</b></a></td>
     <td>Senior Analytics Engineer</td>
     <td>Global data and AI consultancy</td>
+  </tr>
+  <tr>
+    <td>Oct 2026 –</td>
+    <td><b>Stealth Startup</b></td>
+    <td>Founding Analytics Engineer</td>
+    <td>AI learning and assessment platform</td>
   </tr>
   <tr>
     <td>May 2025 –</td>
