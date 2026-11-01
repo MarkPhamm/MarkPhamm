@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: MarkPhamm/git-pixel-art@v2
+      - uses: MarkPhamm/git-pixel-art@v2.0.1
         with:
           output-dir: lineage
 
