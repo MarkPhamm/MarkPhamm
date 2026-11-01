@@ -9,6 +9,7 @@ markers in README.md.
 from __future__ import annotations
 
 import argparse
+import os
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -42,7 +43,17 @@ def moment_in(at: str | None) -> datetime:
     return moment.astimezone(HANOI)
 
 
-def active(moment: datetime) -> str | None:
+def resolve(moment: datetime, show: str | None = None) -> str | None:
+    """A named choice wins. Anything else, including an empty choice, follows the hour."""
+    key = (show or "").strip().lower()
+    if key in ("rice terraces", "terrace", "rice"):
+        return "terrace"
+    if key in ("old quarter", "street", "quarter"):
+        return "street"
+    if key in ("current page", "current", "page"):
+        return None
+    if key not in ("", "follow the hour", "hour"):
+        raise SystemExit(f"Unknown profile {show!r}. Use rice terraces, old quarter, or current page.")
     return CYCLE[moment.astimezone(HANOI).hour % len(CYCLE)]
 
 
@@ -58,13 +69,13 @@ def hero(name: str | None) -> str:
     return f"<sub>{NOTE} This hour shows {NAMES[name]}.</sub>\n\n{body}"
 
 
-def apply(moment: datetime | None = None) -> bool:
+def apply(moment: datetime | None = None, show: str | None = None) -> bool:
     moment = moment or datetime.now(HANOI)
     readme = README.read_text(encoding="utf-8")
     start, end = readme.find(START), readme.find(END)
     if start < 0 or end < start:
         raise SystemExit(f"README.md is missing the {START} / {END} markers")
-    inner = hero(active(moment))
+    inner = hero(resolve(moment, show))
     block = f"\n{inner}\n" if inner else "\n"
     updated = readme[: start + len(START)] + block + readme[end:]
     if updated == readme:
@@ -84,10 +95,12 @@ def publish(name: str, block: str, moment: datetime | None = None) -> bool:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--at", help="ISO datetime, read as Hanoi time when it has no offset")
+    parser.add_argument("--show", help="rice terraces, old quarter, or current page. Omit to follow the hour.")
     args = parser.parse_args()
     moment = moment_in(args.at)
-    name = active(moment)
-    changed = apply(moment)
+    show = args.show if args.show is not None else os.environ.get("PROFILE_SHOW", "")
+    name = resolve(moment, show)
+    changed = apply(moment, show)
     shown = NAMES[name] if name else "the page on its own"
     print(f"{moment:%A %d %b %Y %H:%M} Hanoi: showing {shown}" + (" (README updated)" if changed else ""))
 
