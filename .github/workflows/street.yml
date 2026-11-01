@@ -1,0 +1,120 @@
+name: Street
+
+on:
+  schedule:
+    - cron: "30 22 * * *" # 05:30 in Hanoi, dawn
+    - cron: "30 4 * * *" # 11:30 in Hanoi, day
+    - cron: "45 10 * * *" # 17:45 in Hanoi, dusk
+    - cron: "30 16 * * *" # 23:30 in Hanoi, night
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - street/*.py
+      - street/config.json
+      - .github/workflows/street.yml
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  render:
+    if: github.event_name != 'issues'
+    runs-on: ubuntu-latest
+    concurrency: street-render
+    env:
+      GITHUB_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Draw the street
+        run: python street/render.py
+
+      - name: Commit the street if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git add street README.md
+            if git diff --cached --quiet; then
+              echo "The street is unchanged; nothing to commit."
+              exit 0
+            fi
+            git commit --quiet --message "chore: redraw street"
+            if git pull --rebase --quiet && git push --quiet; then
+              exit 0
+            fi
+            # another workflow pushed first; redraw on top of it
+            git rebase --abort 2>/dev/null || true
+            git reset --hard --quiet origin/main
+            sleep $((attempt * 3))
+            python street/render.py
+          done
+          echo "Could not push the street after 5 attempts."
+          exit 1
+
+  visit:
+    if: github.event_name == 'issues' && startsWith(github.event.issue.title, 'street:')
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ github.token }}
+      ISSUE_TITLE: ${{ github.event.issue.title }}
+      ISSUE_BODY: ${{ github.event.issue.body }}
+      ISSUE_USER: ${{ github.event.issue.user.login }}
+      ISSUE_NUMBER: ${{ github.event.issue.number }}
+      REPLY_PATH: reply.md
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Apply the visit and redraw
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch --quiet origin main
+            git reset --hard --quiet origin/main
+            python street/handle_issue.py
+            python street/render.py || echo "Render failed; the visit is saved and the next scheduled run draws it."
+            git add street README.md
+            if git diff --cached --quiet; then
+              echo "Nothing changed on the street."
+              exit 0
+            fi
+            git commit --quiet --message "chore: street visit from @$ISSUE_USER (#$ISSUE_NUMBER)"
+            if git push --quiet origin HEAD:main; then
+              exit 0
+            fi
+            sleep $((attempt * 3))
+          done
+          echo "The street was too busy to take this visit. Please open the issue again in a few minutes." > reply.md
+          echo "Could not push the visit after 5 attempts."
+          exit 1
+
+      - name: Reply and close the issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          if [ ! -s reply.md ]; then
+            echo "The street was too busy to take this visit. Please open the issue again in a few minutes." > reply.md
+          fi
+          gh issue comment "$ISSUE_NUMBER" --body-file reply.md
+          gh issue close "$ISSUE_NUMBER"

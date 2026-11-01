@@ -1,0 +1,44 @@
+name: Profile rotation
+
+on:
+  schedule:
+    - cron: "5 * * * *" # five minutes past every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: profile-rotation
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Commit the profile if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            python profile/rotate.py
+            git add README.md
+            if git diff --cached --quiet; then
+              echo "The profile is already showing the right hour; nothing to commit."
+              exit 0
+            fi
+            git commit --quiet --message "chore: rotate profile"
+            if git pull --rebase --quiet && git push --quiet; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            git fetch --quiet origin main
+            git reset --quiet --hard origin/main
+            sleep $((attempt * 5))
+          done
+          echo "Could not push the profile rotation after 5 attempts."
+          exit 1

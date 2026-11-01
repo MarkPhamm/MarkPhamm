@@ -1,0 +1,119 @@
+name: Terrace
+
+on:
+  schedule:
+    - cron: "30 22 * * *" # 05:30 in Hanoi (UTC+7), dawn
+    - cron: "30 4 * * *" # 11:30 in Hanoi, day
+    - cron: "45 10 * * *" # 17:45 in Hanoi, dusk
+    - cron: "30 16 * * *" # 23:30 in Hanoi, night
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "terrace/*.py"
+      - .github/workflows/terrace.yml
+  issues:
+    types: [opened]
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    if: github.event_name != 'issues'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency: terrace-render
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Draw the terraces and commit them if they changed
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            python terrace/render.py
+            git add terrace/terrace.svg terrace/section.md README.md
+            if git diff --cached --quiet; then
+              echo "The terraces are unchanged; nothing to commit."
+              exit 0
+            fi
+            git commit --quiet --message "chore: update terraces"
+            # other workflows and visitor issues also push to main
+            if git pull --rebase --quiet && git push --quiet; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            git fetch --quiet origin main
+            git reset --quiet --hard origin/main
+            sleep $((attempt * 5))
+          done
+          echo "Could not push the terraces after 5 attempts."
+          exit 1
+
+  visit:
+    if: github.event_name == 'issues' && startsWith(github.event.issue.title, 'terrace:')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Tend the farm and commit the visit
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPLY_PATH: reply.md
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch --quiet origin main
+            git reset --quiet --hard origin/main
+            python terrace/handle_issue.py
+            if git diff --quiet terrace/state.json; then
+              echo "The visit did not change the farm."
+              exit 0
+            fi
+            python terrace/render.py
+            git add terrace/state.json terrace/terrace.svg terrace/section.md README.md
+            git commit --quiet --message "chore: tend terraces for #$ISSUE_NUMBER"
+            if git push --quiet origin HEAD:main; then
+              exit 0
+            fi
+            sleep $((attempt * 4))
+          done
+          echo "The farm was too busy to take this visit. Please open the issue again in a few minutes." > reply.md
+          echo "Could not push the visit after 5 attempts."
+          exit 1
+
+      - name: Reply and close the issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          if [ ! -s reply.md ]; then
+            echo "The farm was too busy to take this visit. Please open the issue again in a few minutes." > reply.md
+          fi
+          gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --body-file reply.md
+          gh issue close "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY"

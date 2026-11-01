@@ -8,6 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=false&repeat=false&width=1200&height=80&lines=I+think+i+write+too+much+sql+%C2%AF%5C_%28%E3%83%84%29_%2F%C2%AF">
 </picture>
 
+<!--START_SECTION:profile-->
+<!--END_SECTION:profile-->
+
 ## 🧠 About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <blockquote align="center">
