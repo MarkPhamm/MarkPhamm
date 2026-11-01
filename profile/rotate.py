@@ -3,7 +3,8 @@
 The rice terraces, the Old Quarter, and the page on its own take turns, one
 hour each, then the cycle starts again. Each concept writes its hero to
 <concept>/section.md; this puts the current hour's one between the profile
-markers in README.md.
+markers in README.md. The cover picture stays only on the hour that shows the
+page on its own.
 """
 
 from __future__ import annotations
@@ -19,6 +20,9 @@ README = ROOT / "README.md"
 HANOI = ZoneInfo("Asia/Ho_Chi_Minh")
 START = "<!--START_SECTION:profile-->"
 END = "<!--END_SECTION:profile-->"
+COVER_START = "<!--START_SECTION:cover-->"
+COVER_END = "<!--END_SECTION:cover-->"
+COVER = ROOT / "profile" / "cover.md"
 
 # One turn each, in this order, repeating through the day. None is the page on its own.
 CYCLE = ("terrace", "street", None)
@@ -69,16 +73,29 @@ def hero(name: str | None) -> str:
     return f"<sub>{NOTE} This hour shows {NAMES[name]}.</sub>\n\n{body}"
 
 
+def cover_text(name: str | None) -> str:
+    """The desk banner only belongs on the page on its own."""
+    if name is not None:
+        return ""
+    if not COVER.exists():
+        raise SystemExit(f"Missing {COVER.relative_to(ROOT)}")
+    return COVER.read_text(encoding="utf-8").strip()
+
+
+def splice(readme: str, start_marker: str, end_marker: str, inner: str) -> str:
+    start, end = readme.find(start_marker), readme.find(end_marker)
+    if start < 0 or end < start:
+        raise SystemExit(f"README.md is missing the {start_marker} / {end_marker} markers")
+    block = f"\n{inner}\n" if inner else "\n"
+    return readme[: start + len(start_marker)] + block + readme[end:]
+
+
 def apply(moment: datetime | None = None, show: str | None = None) -> bool:
     moment = moment or datetime.now(HANOI)
-    readme = README.read_text(encoding="utf-8")
-    start, end = readme.find(START), readme.find(END)
-    if start < 0 or end < start:
-        raise SystemExit(f"README.md is missing the {START} / {END} markers")
-    inner = hero(resolve(moment, show))
-    block = f"\n{inner}\n" if inner else "\n"
-    updated = readme[: start + len(START)] + block + readme[end:]
-    if updated == readme:
+    name = resolve(moment, show)
+    updated = splice(README.read_text(encoding="utf-8"), COVER_START, COVER_END, cover_text(name))
+    updated = splice(updated, START, END, hero(name))
+    if updated == README.read_text(encoding="utf-8"):
         return False
     README.write_text(updated, encoding="utf-8")
     return True
