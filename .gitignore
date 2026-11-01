@@ -4,3 +4,4 @@
 .env
 .venv 
 reply.md
+__pycache__/
