@@ -2,10 +2,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
+          srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=false&repeat=false&width=1200&height=80&lines=I+think+i+write+too+much+sql+%C2%AF%5C_%28%E3%83%84%29_%2F%C2%AF">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=000000&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
+          srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=000000&multiline=false&repeat=false&width=1200&height=80&lines=I+think+i+write+too+much+sql+%C2%AF%5C_%28%E3%83%84%29_%2F%C2%AF">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=false&repeat=false&width=1200&height=80&lines=I+think+i+write+too+much+sql+%C2%AF%5C_%28%E3%83%84%29_%2F%C2%AF">
 </picture>
 
 <!--START_SECTION:street-->
@@ -40,7 +40,7 @@ Phố Commit is a street in Hanoi's Old Quarter that grows with my GitHub activi
 </blockquote>
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
+  <img src="lineage/lineage.gif" width="768" alt="My data pipeline, redrawn every night from my GitHub activity" />
 </p>
 
 <p align="center">

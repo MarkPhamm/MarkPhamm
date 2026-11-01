@@ -1,0 +1,37 @@
+name: Lineage
+
+on:
+  schedule:
+    - cron: "20 0 * * *" # daily, 00:20 UTC, so the graph shows the day that just ended
+  workflow_dispatch:
+  push:
+    paths: [.github/workflows/lineage.yml]
+
+permissions:
+  contents: write
+
+concurrency: lineage
+
+jobs:
+  lineage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: MarkPhamm/git-pixel-art@v2
+        with:
+          output-dir: lineage
+
+      - name: Commit the lineage graph if it changed
+        run: |
+          git add lineage/lineage.gif
+          if git diff --cached --quiet; then
+            echo "The lineage graph is unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "chore: update lineage"
+          # other workflows also push to main
+          git pull --rebase --quiet
+          git push --quiet
