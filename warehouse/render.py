@@ -492,11 +492,12 @@ def readme_block(summary: str, report: str, tables: list[str], query_section: st
 
 
 def write_readme(block: str) -> None:
-    readme = query.README.read_text(encoding="utf-8")
-    if "<!--START_SECTION:warehouse-->" not in readme:
-        empty = "<!--START_SECTION:warehouse-->\n<!--END_SECTION:warehouse-->"
-        readme = readme.replace("</picture>\n", f"</picture>\n{empty}\n", 1)
-    query.README.write_text(query.replace_section(readme, "warehouse", block), encoding="utf-8")
+    import sys
+
+    sys.path.insert(0, str(query.HERE.parent))
+    from profile.rotate import publish
+
+    publish("warehouse", block)
 
 
 def main() -> None:

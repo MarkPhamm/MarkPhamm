@@ -33,10 +33,6 @@ HERE = Path(__file__).resolve().parent
 STATE_PATH = HERE / "state.json"
 CONFIG_PATH = HERE / "config.json"
 SVG_PATH = HERE / "street.svg"
-README_PATH = HERE.parent / "README.md"
-START_MARK = "<!--START_SECTION:street-->"
-END_MARK = "<!--END_SECTION:street-->"
-
 GRAPHQL_URL = "https://api.github.com/graphql"
 SEARCH_URL = "https://api.github.com/search/issues"
 BROWSER_UA = (
@@ -1416,15 +1412,12 @@ def readme_block(data: dict, post: dict | None, bowls: int, visitors: list[str],
 
 
 def update_readme(block: str) -> bool:
-    readme = README_PATH.read_text(encoding="utf-8")
-    start, end = readme.find(START_MARK), readme.find(END_MARK)
-    if start < 0 or end < start:
-        raise SystemExit(f"README.md is missing the {START_MARK} / {END_MARK} markers")
-    updated = readme[:start + len(START_MARK)] + "\n" + block + "\n" + readme[end:]
-    if updated == readme:
-        return False
-    README_PATH.write_text(updated, encoding="utf-8")
-    return True
+    import sys
+
+    sys.path.insert(0, str(HERE.parent))
+    from profile.rotate import publish
+
+    return publish("street", block)
 
 
 def parse_args(argv=None) -> argparse.Namespace:

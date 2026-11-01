@@ -42,7 +42,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           for attempt in 1 2 3 4 5; do
             python terrace/render.py
-            git add terrace/terrace.svg README.md
+            git add terrace/terrace.svg terrace/section.md README.md
             if git diff --cached --quiet; then
               echo "The terraces are unchanged; nothing to commit."
               exit 0
@@ -95,7 +95,7 @@ jobs:
               exit 0
             fi
             python terrace/render.py
-            git add terrace/state.json terrace/terrace.svg README.md
+            git add terrace/state.json terrace/terrace.svg terrace/section.md README.md
             git commit --quiet --message "chore: tend terraces for #$ISSUE_NUMBER"
             if git push --quiet origin HEAD:main; then
               exit 0

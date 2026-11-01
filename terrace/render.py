@@ -29,9 +29,6 @@ HANOI = timezone(timedelta(hours=7))
 HERE = Path(__file__).resolve().parent
 SVG_PATH = HERE / "terrace.svg"
 STATE_PATH = HERE / "state.json"
-README_PATH = HERE.parent / "README.md"
-START, END = "<!--START_SECTION:terrace-->", "<!--END_SECTION:terrace-->"
-
 W, H = 1200, 600
 MONTHS = 12
 SUMMIT_X = 770
@@ -1116,13 +1113,12 @@ def readme_block(scene, planters):
 
 
 def update_readme(block):
-    text = README_PATH.read_text()
-    start, end = text.find(START), text.find(END)
-    if start == -1 or end == -1:
-        raise SystemExit(f"{README_PATH} is missing the {START} and {END} markers")
-    updated = text[: start + len(START)] + "\n" + block + "\n" + text[end:]
-    if updated != text:
-        README_PATH.write_text(updated)
+    import sys
+
+    sys.path.insert(0, str(HERE.parent))
+    from profile.rotate import publish
+
+    publish("terrace", block)
 
 
 def parse_args():

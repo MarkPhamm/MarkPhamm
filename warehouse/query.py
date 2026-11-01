@@ -13,7 +13,6 @@ from zoneinfo import ZoneInfo
 import duckdb
 
 HERE = Path(__file__).resolve().parent
-README = HERE.parent / "README.md"
 EXPORTS = HERE / "exports"
 STATE = HERE / "state"
 LAST_QUERY = STATE / "last_query.json"
@@ -230,6 +229,23 @@ def replace_section(text: str, name: str, content: str) -> str:
     return pattern.sub(lambda _: f"{start}\n\n{content}\n\n{end}", text, count=1)
 
 
+def refresh_profile(entry: dict) -> bool:
+    """Write the query into the warehouse section and onto the profile when it is Friday."""
+    import sys
+
+    section = HERE / "section.md"
+    if section.exists():
+        section.write_text(
+            replace_section(section.read_text(encoding="utf-8"), "warehouse-query", query_block(entry)),
+            encoding="utf-8",
+        )
+    sys.path.insert(0, str(HERE.parent))
+    from profile.rotate import active, apply
+
+    apply()
+    return active(datetime.now(TIMEZONE)) == "warehouse"
+
+
 def query_block(entry: dict | None, example_result: str | None = None) -> str:
     if entry:
         ran_at = datetime.fromisoformat(entry["ran_at"]).astimezone(TIMEZONE)
@@ -294,16 +310,19 @@ def answer(title: str, body: str, user: str, number: int) -> str:
     write_json(LAST_QUERY, entry)
     if not is_owner:
         write_json(QUERY_LOG, {today: {**todays_queries, user.lower(): number}})
-    readme = README.read_text(encoding="utf-8")
-    README.write_text(replace_section(readme, "warehouse-query", query_block(entry)), encoding="utf-8")
+    shown_now = refresh_profile(entry)
 
+    where = (
+        "Your query is now on my profile until the next visitor replaces it."
+        if shown_now
+        else "Your query is saved, and it will show on my profile on Friday, when the warehouse takes the top of the page."
+    )
     return "\n\n".join([
         f"Hi @{user}, thanks for querying my warehouse. You asked:",
         fenced(sql, "sql"),
         "DuckDB returned:",
         fenced(result, "text"),
-        "Your query is now on my profile until the next visitor replaces it. "
-        "The tables refresh every night at 07:40 Ho Chi Minh City time.",
+        f"{where} The tables refresh every night at 07:40 Ho Chi Minh City time.",
     ])
 
 

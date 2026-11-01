@@ -38,7 +38,7 @@ jobs:
             git fetch --quiet origin main
             git reset --quiet --hard origin/main
             python warehouse/query.py
-            git add README.md warehouse/state
+            git add README.md warehouse/state warehouse/section.md
             if git diff --cached --quiet; then
               exit 0
             fi

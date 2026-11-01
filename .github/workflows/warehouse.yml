@@ -62,7 +62,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           for attempt in 1 2 3 4 5; do
-            git add README.md warehouse/assets warehouse/exports warehouse/state
+            git add README.md warehouse/assets warehouse/exports warehouse/state warehouse/section.md
             if git diff --cached --quiet; then
               echo "The warehouse is unchanged; nothing to commit."
               exit 0
