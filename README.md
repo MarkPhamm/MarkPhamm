@@ -25,22 +25,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/minhbphamm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-2C3A52?style=for-the-badge&logo=linkedin&logoColor=C8D0DE" />
   </a>
   <a href="https://leetcode.com/u/markphammm/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-36445C?style=for-the-badge&logo=leetcode&logoColor=C8D0DE" />
   </a>
   <a href="https://platform.stratascratch.com/user/SmartPersonality1862" target="_blank">
-    <img src="https://img.shields.io/badge/StrataScratch-Profile-00A79D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9jhTEsAAAAK3RSTlMAAQIDBAUGBwgJCgsMDQ8QERITFBUWFxgZGhscHR4fICEiIyQmJygpKiuzg1ZnAAAAPUlEQVR42jXJRw6AIAwEwG9r2+9fZbCllPw/6wJWiRMwCqbk9zMBoIRlpBKR6FQAoipxkAdRHWuMtk5+egAtI7AmZpjE9AAAAAElFTkSuQmCC" alt="StrataScratch logo" />
+    <img src="https://img.shields.io/badge/StrataScratch-Profile-3E4C66?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9jhTEsAAAAK3RSTlMAAQIDBAUGBwgJCgsMDQ8QERITFBUWFxgZGhscHR4fICEiIyQmJygpKiuzg1ZnAAAAPUlEQVR42jXJRw6AIAwEwG9r2+9fZbCllPw/6wJWiRMwCqbk9zMBoIRlpBKR6FQAoipxkAdRHWuMtk5+egAtI7AmZpjE9AAAAAElFTkSuQmCC&logoColor=C8D0DE" alt="StrataScratch logo" />
   </a>
 </p>
 
 <div align="center">
   
 [![wakatime](https://wakatime.com/badge/user/894cf02a-9974-42d0-acde-603cdd98fe17.svg)](https://wakatime.com/@894cf02a-9974-42d0-acde-603cdd98fe17)
-![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue)
-![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-orange)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MarkPhamm)
+![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-4A3D56)
+![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-2C3A52)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MarkPhamm&left_color=2C3A52&right_color=3A4E68)
 </div>
 
 ---
@@ -93,14 +93,14 @@
       </td>
       <td align="center" valign="middle" width="1%">➔</td>
       <td align="center" valign="top" width="11%">
-        <sub>May 2025 - </sub><img src="https://img.shields.io/badge/Present-2ea44f?style=flat-square" height="14" valign="middle" /><br /><br />
+        <sub>May 2025 - </sub><img src="https://img.shields.io/badge/Present-36445C?style=flat-square" height="14" valign="middle" /><br /><br />
         <img src="https://www.google.com/s2/favicons?sz=32&domain=facebook.com" width="24" height="24" /><br /><br />
         <a href="https://xomdata.com/"><b>Xóm Data</b></a><br />
         <sub>Builder</sub>
       </td>
       <td align="center" valign="middle" width="1%">➔</td>
       <td align="center" valign="top" width="11%">
-        <sub>Aug 2026 - </sub><img src="https://img.shields.io/badge/Present-2ea44f?style=flat-square" height="14" valign="middle" /><br /><br />
+        <sub>Aug 2026 - </sub><img src="https://img.shields.io/badge/Present-3E4C66?style=flat-square" height="14" valign="middle" /><br /><br />
         <img src="https://www.google.com/s2/favicons?sz=32&domain=infinitelambda.com" width="24" height="24" /><br /><br />
         <a href="https://infinitelambda.com/"><b>Infinite Lambda</b></a><br />
         <sub>Senior Analytics Engineer</sub>
@@ -119,102 +119,102 @@
     <tr>
       <td width="25%"><b>🏢 Data Warehouse</b></td>
       <td width="75%">
-        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake"/>
-        <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" alt="Redshift"/>
-        <img src="https://img.shields.io/badge/BigQuery-6699FF?style=flat-square&logo=google-bigquery&logoColor=white" alt="BigQuery"/>
-        <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
+        <img src="https://img.shields.io/badge/Snowflake-4A3D56?style=flat-square&logo=snowflake&logoColor=C8D0DE" alt="Snowflake"/>
+        <img src="https://img.shields.io/badge/Redshift-2C3A52?style=flat-square&logo=amazonredshift&logoColor=C8D0DE" alt="Redshift"/>
+        <img src="https://img.shields.io/badge/BigQuery-36445C?style=flat-square&logo=google-bigquery&logoColor=C8D0DE" alt="BigQuery"/>
+        <img src="https://img.shields.io/badge/ClickHouse-3E4C66?style=flat-square&logo=clickhouse&logoColor=C8D0DE" alt="ClickHouse"/>
       </td>
     </tr>
     <tr>
       <td><b>🌊 Data Lakehouse</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
-        <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB"/>
-        <img src="https://img.shields.io/badge/MotherDuck-FFD400?style=flat-square&logo=duckdb&logoColor=black" alt="MotherDuck"/>
-        <img src="https://img.shields.io/badge/Iceberg-1E88E5?style=flat-square&logo=apacheiceberg&logoColor=white" alt="Iceberg"/>
-        <img src="https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=delta&logoColor=white" alt="Delta Lake"/>
-        <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white" alt="Trino"/>
-        <img src="https://img.shields.io/badge/PrestoDB-5890FF?style=flat-square&logo=presto&logoColor=white" alt="PrestoDB"/>
-        <img src="https://img.shields.io/badge/Pinot-000000?style=flat-square&logo=apache&logoColor=white" alt="Pinot"/>
-        <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive"/>
-        <img src="https://img.shields.io/badge/HDFS-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="HDFS"/>
+        <img src="https://img.shields.io/badge/Databricks-4A3D56?style=flat-square&logo=databricks&logoColor=C8D0DE" alt="Databricks"/>
+        <img src="https://img.shields.io/badge/DuckDB-2C3A52?style=flat-square&logo=duckdb&logoColor=C8D0DE" alt="DuckDB"/>
+        <img src="https://img.shields.io/badge/MotherDuck-36445C?style=flat-square&logo=duckdb&logoColor=C8D0DE" alt="MotherDuck"/>
+        <img src="https://img.shields.io/badge/Iceberg-3E4C66?style=flat-square&logo=apacheiceberg&logoColor=C8D0DE" alt="Iceberg"/>
+        <img src="https://img.shields.io/badge/Delta_Lake-4A3D56?style=flat-square&logo=delta&logoColor=C8D0DE" alt="Delta Lake"/>
+        <img src="https://img.shields.io/badge/Trino-2C3A52?style=flat-square&logo=trino&logoColor=C8D0DE" alt="Trino"/>
+        <img src="https://img.shields.io/badge/PrestoDB-36445C?style=flat-square&logo=presto&logoColor=C8D0DE" alt="PrestoDB"/>
+        <img src="https://img.shields.io/badge/Pinot-3E4C66?style=flat-square&logo=apache&logoColor=C8D0DE" alt="Pinot"/>
+        <img src="https://img.shields.io/badge/Hive-4A3D56?style=flat-square&logo=apachehive&logoColor=C8D0DE" alt="Hive"/>
+        <img src="https://img.shields.io/badge/HDFS-2C3A52?style=flat-square&logo=apachehadoop&logoColor=C8D0DE" alt="HDFS"/>
       </td>
     </tr>
     <tr>
       <td><b>🔄 Data Processing &amp; Transformation</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
-        <img src="https://img.shields.io/badge/Spark_Structured_Streaming-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark Structured Streaming"/>
-        <img src="https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" alt="Flink"/>
-        <img src="https://img.shields.io/badge/Alteryx-0078D4?style=flat-square&logo=alteryx&logoColor=white" alt="Alteryx"/>
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
-        <img src="https://img.shields.io/badge/Kinesis-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Kinesis"/>
-        <img src="https://img.shields.io/badge/Google_Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Pub/Sub"/>
-        <img src="https://img.shields.io/badge/CDC-4B8BBE?style=flat-square&logo=debezium&logoColor=white" alt="CDC"/>
-        <img src="https://img.shields.io/badge/dbt_Core-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt Core"/>
+        <img src="https://img.shields.io/badge/Apache_Spark-36445C?style=flat-square&logo=apache-spark&logoColor=C8D0DE" alt="Apache Spark"/>
+        <img src="https://img.shields.io/badge/Spark_Structured_Streaming-3E4C66?style=flat-square&logo=apache-spark&logoColor=C8D0DE" alt="Spark Structured Streaming"/>
+        <img src="https://img.shields.io/badge/Flink-4A3D56?style=flat-square&logo=apacheflink&logoColor=C8D0DE" alt="Flink"/>
+        <img src="https://img.shields.io/badge/Alteryx-2C3A52?style=flat-square&logo=alteryx&logoColor=C8D0DE" alt="Alteryx"/>
+        <img src="https://img.shields.io/badge/Kafka-36445C?style=flat-square&logo=apachekafka&logoColor=C8D0DE" alt="Kafka"/>
+        <img src="https://img.shields.io/badge/Kinesis-3E4C66?style=flat-square&logo=amazonaws&logoColor=C8D0DE" alt="Kinesis"/>
+        <img src="https://img.shields.io/badge/Google_Pub%2FSub-4A3D56?style=flat-square&logo=googlecloud&logoColor=C8D0DE" alt="Google Pub/Sub"/>
+        <img src="https://img.shields.io/badge/CDC-2C3A52?style=flat-square&logo=debezium&logoColor=C8D0DE" alt="CDC"/>
+        <img src="https://img.shields.io/badge/dbt_Core-36445C?style=flat-square&logo=dbt&logoColor=C8D0DE" alt="dbt Core"/>
       </td>
     </tr>
     <tr>
       <td><b>📥 Data Integration &amp; Reverse ETL</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Airbyte-6131F3?style=flat-square&logo=airbyte&logoColor=white" alt="Airbyte"/>
-        <img src="https://img.shields.io/badge/Fivetran-326DE6?style=flat-square&logo=fivetran&logoColor=white" alt="Fivetran"/>
-        <img src="https://img.shields.io/badge/dltHub-4285F4?style=flat-square&logo=python&logoColor=white" alt="dltHub"/>
-        <img src="https://img.shields.io/badge/Hightouch-000000?style=flat-square&logo=hightouch&logoColor=white" alt="Hightouch"/>
+        <img src="https://img.shields.io/badge/Airbyte-3E4C66?style=flat-square&logo=airbyte&logoColor=C8D0DE" alt="Airbyte"/>
+        <img src="https://img.shields.io/badge/Fivetran-4A3D56?style=flat-square&logo=fivetran&logoColor=C8D0DE" alt="Fivetran"/>
+        <img src="https://img.shields.io/badge/dltHub-2C3A52?style=flat-square&logo=python&logoColor=C8D0DE" alt="dltHub"/>
+        <img src="https://img.shields.io/badge/Hightouch-36445C?style=flat-square&logo=hightouch&logoColor=C8D0DE" alt="Hightouch"/>
       </td>
     </tr>
     <tr>
       <td><b>⚙️ Orchestration</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow"/>
-        <img src="https://img.shields.io/badge/Astronomer-4F46E5?style=flat-square&logo=apacheairflow&logoColor=white" alt="Astronomer"/>
-        <img src="https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=prefect&logoColor=white" alt="Prefect"/>
-        <img src="https://img.shields.io/badge/Mage-8A2BE2?style=flat-square&logo=magic&logoColor=white" alt="Mage"/>
-        <img src="https://img.shields.io/badge/Dagster-251E3E?style=flat-square&logo=dagster&logoColor=white" alt="Dagster"/>
-        <img src="https://img.shields.io/badge/Orchestra-000000?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml&logoColor=white" alt="Orchestra"/>
+        <img src="https://img.shields.io/badge/Apache_Airflow-3E4C66?style=flat-square&logo=apache-airflow&logoColor=C8D0DE" alt="Apache Airflow"/>
+        <img src="https://img.shields.io/badge/Astronomer-4A3D56?style=flat-square&logo=apacheairflow&logoColor=C8D0DE" alt="Astronomer"/>
+        <img src="https://img.shields.io/badge/Prefect-2C3A52?style=flat-square&logo=prefect&logoColor=C8D0DE" alt="Prefect"/>
+        <img src="https://img.shields.io/badge/Mage-36445C?style=flat-square&logo=magic&logoColor=C8D0DE" alt="Mage"/>
+        <img src="https://img.shields.io/badge/Dagster-3E4C66?style=flat-square&logo=dagster&logoColor=C8D0DE" alt="Dagster"/>
+        <img src="https://img.shields.io/badge/Orchestra-4A3D56?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml&logoColor=C8D0DE" alt="Orchestra"/>
       </td>
     </tr>
     <tr>
       <td><b>📊 BI &amp; Analytics</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Mode-000000?style=flat-square&logo=mode&logoColor=white" alt="Mode"/>
-        <img src="https://img.shields.io/badge/Hex-000000?style=flat-square&logo=hex&logoColor=white" alt="Hex"/>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
-        <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-        <img src="https://img.shields.io/badge/Visivo-000000?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml&logoColor=white" alt="Visivo"/>
-        <img src="https://img.shields.io/badge/Lightdash-000000?style=flat-square&logo=lightdash&logoColor=white" alt="Lightdash"/>
-        <img src="https://img.shields.io/badge/Superset-0073B7?style=flat-square&logo=apache-superset&logoColor=white" alt="Superset"/>
-        <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" alt="Metabase"/>
-        <img src="https://img.shields.io/badge/Omni-EC1A58?style=flat-square" alt="Omni"/>
-        <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog"/>
+        <img src="https://img.shields.io/badge/Mode-2C3A52?style=flat-square&logo=mode&logoColor=C8D0DE" alt="Mode"/>
+        <img src="https://img.shields.io/badge/Hex-36445C?style=flat-square&logo=hex&logoColor=C8D0DE" alt="Hex"/>
+        <img src="https://img.shields.io/badge/Power_BI-3E4C66?style=flat-square&logo=powerbi&logoColor=C8D0DE" alt="Power BI"/>
+        <img src="https://img.shields.io/badge/Tableau-4A3D56?style=flat-square&logo=tableau&logoColor=C8D0DE" alt="Tableau"/>
+        <img src="https://img.shields.io/badge/Looker_Studio-2C3A52?style=flat-square&logo=looker&logoColor=C8D0DE" alt="Looker Studio"/>
+        <img src="https://img.shields.io/badge/Streamlit-36445C?style=flat-square&logo=streamlit&logoColor=C8D0DE" alt="Streamlit"/>
+        <img src="https://img.shields.io/badge/Visivo-3E4C66?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml&logoColor=C8D0DE" alt="Visivo"/>
+        <img src="https://img.shields.io/badge/Lightdash-4A3D56?style=flat-square&logo=lightdash&logoColor=C8D0DE" alt="Lightdash"/>
+        <img src="https://img.shields.io/badge/Superset-2C3A52?style=flat-square&logo=apache-superset&logoColor=C8D0DE" alt="Superset"/>
+        <img src="https://img.shields.io/badge/Metabase-36445C?style=flat-square&logo=metabase&logoColor=C8D0DE" alt="Metabase"/>
+        <img src="https://img.shields.io/badge/Omni-3E4C66?style=flat-square" alt="Omni"/>
+        <img src="https://img.shields.io/badge/Datadog-4A3D56?style=flat-square&logo=datadog&logoColor=C8D0DE" alt="Datadog"/>
       </td>
     </tr>
     <tr>
       <td><b>🚀 DevOps &amp; Cloud</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-        <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/>
-        <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="Amazon EC2"/>
-        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
-        <img src="https://img.shields.io/badge/Step_Functions-CD2264?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Step Functions"/>
-        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
+        <img src="https://img.shields.io/badge/Terraform-2C3A52?style=flat-square&logo=terraform&logoColor=C8D0DE" alt="Terraform"/>
+        <img src="https://img.shields.io/badge/Docker-36445C?style=flat-square&logo=docker&logoColor=C8D0DE" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Kubernetes-3E4C66?style=flat-square&logo=kubernetes&logoColor=C8D0DE" alt="Kubernetes"/>
+        <img src="https://img.shields.io/badge/Git-4A3D56?style=flat-square&logo=git&logoColor=C8D0DE" alt="Git"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2C3A52?style=flat-square&logo=github-actions&logoColor=C8D0DE" alt="GitHub Actions"/>
+        <img src="https://img.shields.io/badge/AWS-36445C?style=flat-square&logo=amazonwebservices&logoColor=C8D0DE" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Amazon_S3-3E4C66?style=flat-square&logo=amazons3&logoColor=C8D0DE" alt="Amazon S3"/>
+        <img src="https://img.shields.io/badge/Amazon_EC2-4A3D56?style=flat-square&logo=amazonec2&logoColor=C8D0DE" alt="Amazon EC2"/>
+        <img src="https://img.shields.io/badge/AWS_Lambda-2C3A52?style=flat-square&logo=awslambda&logoColor=C8D0DE" alt="AWS Lambda"/>
+        <img src="https://img.shields.io/badge/Step_Functions-36445C?style=flat-square&logo=amazonaws&logoColor=C8D0DE" alt="AWS Step Functions"/>
+        <img src="https://img.shields.io/badge/GitLab-3E4C66?style=flat-square&logo=gitlab&logoColor=C8D0DE" alt="GitLab"/>
+        <img src="https://img.shields.io/badge/GCP-4A3D56?style=flat-square&logo=google-cloud&logoColor=C8D0DE" alt="GCP"/>
       </td>
     </tr>
     <tr>
       <td><b>🤖 AI Tooling</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
-        <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
-        <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
-        <img src="https://img.shields.io/badge/MCP_Servers-4B32C3?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml&logoColor=white" alt="MCP servers (dbt, Asana, Slack)"/>
+        <img src="https://img.shields.io/badge/Claude_Code-2C3A52?style=flat-square&logo=anthropic&logoColor=C8D0DE" alt="Claude Code"/>
+        <img src="https://img.shields.io/badge/Cursor-36445C?style=flat-square&logo=cursor&logoColor=C8D0DE" alt="Cursor"/>
+        <img src="https://img.shields.io/badge/Codex-3E4C66?style=flat-square&logo=openai&logoColor=C8D0DE" alt="Codex"/>
+        <img src="https://img.shields.io/badge/MCP_Servers-4A3D56?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml&logoColor=C8D0DE" alt="MCP servers (dbt, Asana, Slack)"/>
       </td>
     </tr>
   </table>
@@ -233,9 +233,9 @@
       </td>
       <!-- Right: GitHub Stats on top, Top Languages below -->
       <td width="42%" align="center" style="border: none; padding: 10px;" valign="middle">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=markphamm&theme=tokyonight&show_icons=true&include_all_commits=true&bg_color=0b0f19&title_color=88C0D0&text_color=e5e7eb&icon_color=88C0D0&border_color=1f2937&hide_border=false" width="380" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=markphamm&theme=tokyonight&show_icons=true&include_all_commits=true&bg_color=101622&title_color=8AA0B8&text_color=C5CEDA&icon_color=8AA0B8&border_color=2A3548&hide_border=false" width="380" alt="GitHub Stats" />
         <br /><br />
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=markphamm&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=88C0D0&text_color=e5e7eb&icon_color=88C0D0&border_color=1f2937&hide_border=false" width="380" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=markphamm&layout=compact&theme=tokyonight&bg_color=101622&title_color=8AA0B8&text_color=C5CEDA&icon_color=8AA0B8&border_color=2A3548&hide_border=false" width="380" alt="Top Languages" />
       </td>
     </tr>
   </table>
