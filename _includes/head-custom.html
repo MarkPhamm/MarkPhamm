@@ -89,6 +89,19 @@
     color: #C5CEDA;
     box-shadow: none;
   }
+
+  /* The theme paints every image white; that shows up as bands behind transparent
+     artwork such as the WakaTime calendar. */
+  .markdown-body img {
+    background-color: transparent;
+  }
+
+  /* The animated divider GIF is a gradient line drawn on a white background. Invert
+     and screen-blend it so the white drops out and only the line is left. */
+  .markdown-body img[src*="115834477"] {
+    filter: invert(1) hue-rotate(180deg);
+    mix-blend-mode: screen;
+  }
 </style>
 <script>
   /*

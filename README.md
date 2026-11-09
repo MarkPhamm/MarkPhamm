@@ -36,11 +36,10 @@
 </p>
 
 <div align="center">
-  
-[![wakatime](https://wakatime.com/badge/user/894cf02a-9974-42d0-acde-603cdd98fe17.svg)](https://wakatime.com/@894cf02a-9974-42d0-acde-603cdd98fe17)
-![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-4A3D56)
-![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-2C3A52)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MarkPhamm&left_color=2C3A52&right_color=3A4E68)
+  <a href="https://wakatime.com/@894cf02a-9974-42d0-acde-603cdd98fe17"><img src="https://wakatime.com/badge/user/894cf02a-9974-42d0-acde-603cdd98fe17.svg" alt="wakatime" /></a>
+  <img src="https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-4A3D56" alt="Working on" />
+  <img src="https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-2C3A52" alt="Learning" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarkPhamm&left_color=2C3A52&right_color=3A4E68" alt="visitors" />
 </div>
 
 ---
