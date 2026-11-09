@@ -1,10 +1,10 @@
-"""Swap the profile hero every hour, Hanoi time.
+"""Swap the profile hero on a daily schedule, Hanoi time.
 
-The rice terraces, the Old Quarter, and the page on its own take turns, one
-hour each, then the cycle starts again. Each concept writes its hero to
-<concept>/section.md; this puts the current hour's one between the profile
-markers in README.md. The cover picture stays only on the hour that shows the
-page on its own.
+The page stands on its own most of the day. The rice terraces take over for
+two hours at dawn and the Old Quarter for two hours at dusk, then the page
+comes back. Each concept writes its hero to <concept>/section.md; this puts
+the current one between the profile markers in README.md. The cover picture
+stays only while the page is shown on its own.
 """
 
 from __future__ import annotations
@@ -24,8 +24,12 @@ COVER_START = "<!--START_SECTION:cover-->"
 COVER_END = "<!--END_SECTION:cover-->"
 COVER = ROOT / "profile" / "cover.md"
 
-# One turn each, in this order, repeating through the day. None is the page on its own.
-CYCLE = ("terrace", "street", None)
+# Two hours each: the terraces at first light, the Old Quarter at dusk.
+# Every other hour of the day belongs to the page on its own.
+SCHEDULE = (
+    ("terrace", 6, 8),
+    ("street", 18, 20),
+)
 
 NAMES = {
     "terrace": "the rice terraces",
@@ -33,8 +37,8 @@ NAMES = {
 }
 
 NOTE = (
-    "The profile changes every hour: the rice terraces, then the Old Quarter, "
-    "then the page on its own."
+    "The page mostly stands on its own, but the rice terraces take the profile "
+    "from 06:00 to 08:00 Hanoi time and the Old Quarter from 18:00 to 20:00."
 )
 
 
@@ -58,7 +62,11 @@ def resolve(moment: datetime, show: str | None = None) -> str | None:
         return None
     if key not in ("", "follow the hour", "hour"):
         raise SystemExit(f"Unknown profile {show!r}. Use rice terraces, old quarter, or current page.")
-    return CYCLE[moment.astimezone(HANOI).hour % len(CYCLE)]
+    hour = moment.astimezone(HANOI).hour
+    for name, start, end in SCHEDULE:
+        if start <= hour < end:
+            return name
+    return None
 
 
 def hero(name: str | None) -> str:
