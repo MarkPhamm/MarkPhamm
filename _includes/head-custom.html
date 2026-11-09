@@ -1,0 +1,118 @@
+<!-- start custom head snippets -->
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#101622">
+<style>
+  /*
+   * Night palette for the GitHub Pages rendering of the profile README.
+   * Colours mirror the README stat cards: canvas #101622, text #C5CEDA, borders #2A3548.
+   */
+  html,
+  body {
+    background-color: #101622;
+    color: #C5CEDA;
+  }
+
+  .markdown-body {
+    background-color: transparent;
+    color: #C5CEDA;
+  }
+
+  .markdown-body h1,
+  .markdown-body h2,
+  .markdown-body h3,
+  .markdown-body h4,
+  .markdown-body h5,
+  .markdown-body h6 {
+    color: #E6EDF3;
+    border-bottom-color: #2A3548;
+  }
+
+  .markdown-body h1 a,
+  .markdown-body h2 a,
+  .markdown-body h3 a,
+  .markdown-body h4 a,
+  .markdown-body h5 a,
+  .markdown-body h6 a {
+    color: inherit;
+  }
+
+  .markdown-body a {
+    color: #8AB4F8;
+  }
+
+  .markdown-body a:hover {
+    color: #A8C7FA;
+  }
+
+  .markdown-body hr {
+    background-color: #2A3548;
+    border-color: #2A3548;
+  }
+
+  .markdown-body blockquote {
+    color: #9AA7B8;
+    border-left-color: #2A3548;
+  }
+
+  .markdown-body table tr {
+    background-color: transparent;
+    border-top-color: #2A3548;
+  }
+
+  .markdown-body table tr:nth-child(2n) {
+    background-color: #161B22;
+  }
+
+  .markdown-body table th,
+  .markdown-body table td {
+    border-color: #2A3548;
+  }
+
+  .markdown-body code,
+  .markdown-body tt {
+    background-color: #1B2430;
+    color: #C5CEDA;
+  }
+
+  .markdown-body pre {
+    background-color: #161B22;
+    border-color: #2A3548;
+  }
+
+  .markdown-body pre code {
+    background-color: transparent;
+  }
+
+  .markdown-body kbd {
+    background-color: #1B2430;
+    border-color: #2A3548;
+    color: #C5CEDA;
+    box-shadow: none;
+  }
+</style>
+<script>
+  /*
+   * The README ships a <picture> with light and dark artwork for the typing banner.
+   * Browsers pick the variant from the visitor's OS theme, so on a light OS the black
+   * artwork would vanish against this dark canvas. Pin the dark artwork instead.
+   */
+  (function () {
+    function useDarkArtwork() {
+      document.querySelectorAll("picture").forEach(function (picture) {
+        var darkSource = picture.querySelector('source[media*="dark"]');
+        var img = picture.querySelector("img");
+        if (!darkSource || !img) return;
+        img.setAttribute("src", darkSource.getAttribute("srcset"));
+        picture.querySelectorAll("source").forEach(function (source) {
+          source.remove();
+        });
+      });
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", useDarkArtwork);
+    } else {
+      useDarkArtwork();
+    }
+  })();
+</script>
+<!-- end custom head snippets -->
