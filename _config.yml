@@ -1,0 +1,9 @@
+theme: jekyll-theme-primer
+
+# jekyll-seo-tag only reads the image from page data, so set it for every page.
+# It powers the og:image / twitter:image used by link previews.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/og.jpg
